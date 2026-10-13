@@ -1,0 +1,1 @@
+Batch 2: C7-051 to C7-100. Original, source-mapped draft; technical review pending. Upload ZIP to Codespaces, extract, test and commit the four files. Do not alter label-exams.html or Batch 1. This batch is not added to the homepage yet.
