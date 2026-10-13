@@ -10,7 +10,7 @@
       "Wood-decay fungi"
     ],
     "answer": 3,
-    "explanation": "Wood-decay fungi. Source slide 131: Wood Destroying Organisms • Wood destroying organisms include termites, fungi, carpenter ants, and other organisms capable of damaging structural wood.",
+    "explanation": "Wood-decay fungi. Wood destroying organisms include termites, fungi, carpenter ants, and other organisms capable of damaging structural wood.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 131
@@ -28,7 +28,7 @@
       "Drywood termite pellets"
     ],
     "answer": 2,
-    "explanation": "Brown rot. Source slide 132: Brown and White Rot • Brown rot primarily destroys cellulose while white rot breaks down lignin and cellulose in wood.",
+    "explanation": "Brown rot. Brown rot primarily destroys cellulose while white rot breaks down lignin and cellulose in wood.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 132
@@ -46,7 +46,7 @@
       "Drywood termites"
     ],
     "answer": 3,
-    "explanation": "Drywood termites. Source slide 133: Drywood termites — rare in TN Drywood termites are uncommon in Tennessee compared to subterranean termites.",
+    "explanation": "Drywood termites. Drywood termites are uncommon in Tennessee compared to subterranean termites.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 133
@@ -64,7 +64,7 @@
       "Drywood termite fecal pellets"
     ],
     "answer": 3,
-    "explanation": "Drywood termite fecal pellets. Source slide 134: Fecal pellets •Drywood termites produce distinctive six-sided fecal pellets used for identification.",
+    "explanation": "Drywood termite fecal pellets. Drywood termites produce distinctive six-sided fecal pellets used for identification.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 134
@@ -82,7 +82,7 @@
       "House flies"
     ],
     "answer": 1,
-    "explanation": "Subterranean termites. Source slide 135: Subterranean termites — life cycle • Subterranean termites live in colonies containing reproductives, workers, soldiers, and swarmers (alates).",
+    "explanation": "Subterranean termites. Subterranean termites live in colonies containing reproductives, workers, soldiers, and swarmers (alates).",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 135
@@ -100,7 +100,7 @@
       "Worker"
     ],
     "answer": 2,
-    "explanation": "Alate reproductive. Source slide 136: Soldier ID / alate ID Applicators must identify termite castes such as soldiers and winged reproductives (alates).",
+    "explanation": "Termite colonies contain different castes, including soldiers and winged reproductives called alates. Recognizing these forms helps distinguish termite types during identification.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 136
@@ -110,7 +110,7 @@
   {
     "id": "C7-107",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "Which termite is identified in the presentation as an invasive subterranean species capable of severe damage?",
+    "question": "Which termite is an invasive subterranean species capable of severe structural damage?",
     "options": [
       "Lyctid beetle",
       "Odorous house ant",
@@ -118,7 +118,7 @@
       "Formosan subterranean termite"
     ],
     "answer": 3,
-    "explanation": "Formosan subterranean termite. Source slide 137: Formosan subterranean termites • Formosan termites are aggressive invasive subterranean termites capable of causing severe structural damage.",
+    "explanation": "Formosan subterranean termite. Formosan termites are aggressive invasive subterranean termites capable of causing severe structural damage.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 137
@@ -136,7 +136,7 @@
       "To skip specimen collection entirely"
     ],
     "answer": 2,
-    "explanation": "To avoid identifying termites by a single unreliable clue. Source slide 138: Comparison chart",
+    "explanation": "Termite identification is more reliable when several features—such as body shape, antennae, waist, wings, and other species-specific traits—are considered together. A single visual clue can be misleading.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 138
@@ -154,7 +154,7 @@
       "Adding wood mulch against siding"
     ],
     "answer": 1,
-    "explanation": "Repairing chronic drainage and moisture problems. Source slide 139: Prevention and management • Termite prevention includes moisture control, wood-to-soil separation, exclusion, monitoring, baiting, and soil treatments.",
+    "explanation": "Repairing chronic drainage and moisture problems. Termite prevention includes moisture control, wood-to-soil separation, exclusion, monitoring, baiting, and soil treatments.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 139
@@ -172,7 +172,7 @@
       "Construction differences affect access and treatment approach"
     ],
     "answer": 3,
-    "explanation": "Construction differences affect access and treatment approach. Source slide 140: Different slab construction styles require different treatment approaches during termite control. 3 types of slabs— floating, monolithic, supported",
+    "explanation": "Slab construction affects where a technician can inspect and how treatment can reach potential termite entry routes. Identify the construction type and follow the product label before choosing a treatment method.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 140
@@ -182,7 +182,7 @@
   {
     "id": "C7-111",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "In the presentation's horizontal application example, what is the rate used for classroom area calculations?",
+    "question": "At an illustrative horizontal soil-treatment rate of one gallon per ten square feet, what rate is used for area calculations?",
     "options": [
       "One ounce per ten linear feet",
       "One gallon per ten square feet",
@@ -190,7 +190,7 @@
       "Ten gallons per square foot"
     ],
     "answer": 1,
-    "explanation": "One gallon per ten square feet. Source slide 141: Soil treatments — 1 gallon per 10 sq ft Standard soil treatment application rates are often calculated at 1 gallon per 10 square feet.",
+    "explanation": "The stated classroom example uses 1 gallon for each 10 square feet. That is an arithmetic example, not a universal application rate; actual rates and methods must follow the specific product label and applicable rules.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 141
@@ -208,7 +208,7 @@
       "A rate memorized from another termiticide"
     ],
     "answer": 1,
-    "explanation": "The actual product label and applicable rules. Source slide 142: Liquid Treatment Examples",
+    "explanation": "Pesticide application rates and methods must match the directions on the actual product label and applicable rules. An example or another product’s directions do not authorize a different rate or use.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 142
@@ -226,7 +226,7 @@
       "Mosquito adulticiding"
     ],
     "answer": 2,
-    "explanation": "Termite baiting and monitoring. Source slide 143: Termite Baiting Systems •Termite baiting systems are monitoring and colony elimination systems placed in soil around structures.",
+    "explanation": "Termite baiting and monitoring. Termite baiting systems are monitoring and colony elimination systems placed in soil around structures.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 143
@@ -236,7 +236,7 @@
   {
     "id": "C7-114",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "Which is identified in the presentation as a termite-bait system rather than a spray formulation?",
+    "question": "Which is a termite-baiting system rather than a spray formulation?",
     "options": [
       "Sentricon",
       "Wettable powder",
@@ -244,7 +244,7 @@
       "Tracking powder"
     ],
     "answer": 0,
-    "explanation": "Sentricon. Source slide 144: Sentricon, Exterra, Advance, Firstline These are commercial termite baiting systems discussed for subterranean termite management.",
+    "explanation": "Sentricon is a termite-baiting system, not a spray formulation. Bait systems use stations and monitoring to target termites as they forage; follow the specific product directions for any real application.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 144
@@ -262,7 +262,7 @@
       "Colony effects may take longer while using less pesticide volume"
     ],
     "answer": 3,
-    "explanation": "Colony effects may take longer while using less pesticide volume. Source slide 145: Advantages and disadvantages of baits Baits reduce pesticide volume and exposure but may act more slowly than liquid soil treatments.",
+    "explanation": "Termite baits can use less pesticide volume than liquid soil treatments, but colony effects may take longer because termites must encounter and feed on the bait. Use and monitor the system as its label directs.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 145
@@ -280,7 +280,7 @@
       "They always indicate mosquitoes"
     ],
     "answer": 2,
-    "explanation": "Wood-destroying beetles can damage structural wood. Source slide 146: Wood Destroying Beetles Wood destroying beetles damage structural wood and are important during WDO inspections.",
+    "explanation": "Wood-destroying beetles can tunnel in structural wood, so emergence holes and damaged framing may be evidence of an infestation. Inspect and identify the cause before selecting a management response.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 146
@@ -298,7 +298,7 @@
       "Paper wasps"
     ],
     "answer": 0,
-    "explanation": "Anobiid powderpost beetles. Source slide 147: Anobiid powderpost beetles — head hidden Anobiid beetles have the head hidden from above by the pronotum.",
+    "explanation": "Anobiid powderpost beetles have the head hidden from above by the pronotum, the shield-like segment behind the head. This feature can help distinguish them from beetles whose heads are visible.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 147
@@ -316,7 +316,7 @@
       "Carpet beetle larvae"
     ],
     "answer": 1,
-    "explanation": "Lyctid powderpost beetles. Source slide 148: Lyctid powderpost beetles — new construction — head visible • Lyctid powderpost beetles commonly infest hardwoods in newer construction and have visible heads when viewed from above",
+    "explanation": "Lyctid powderpost beetles. Lyctid powderpost beetles commonly infest hardwoods in newer construction and have visible heads when viewed from above",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 148
@@ -334,7 +334,7 @@
       "Wool carpets"
     ],
     "answer": 0,
-    "explanation": "Sapwood of softwoods such as pine. Source slide 149: Old house borers — attacks sapwood of pine softwood • Old house borers infest softwoods such as pine and may continue damaging wood years after construction.",
+    "explanation": "Sapwood of softwoods such as pine. Old house borers infest softwoods such as pine and may continue damaging wood years after construction.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 149
@@ -352,7 +352,7 @@
       "Ticks breeding in carpets"
     ],
     "answer": 1,
-    "explanation": "Wood-boring or bark beetles associated with firewood. Source slide 150: Bark beetles — firewood • Bark beetles infest trees and firewood and may be identified by characteristic appearance and damage.",
+    "explanation": "Wood-boring or bark beetles associated with firewood. Bark beetles infest trees and firewood and may be identified by characteristic appearance and damage.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 150
@@ -370,7 +370,7 @@
       "It may be a territorial male that cannot sting"
     ],
     "answer": 3,
-    "explanation": "It may be a territorial male that cannot sting. Source slide 151: Carpenter bees — female and male ID – white face • Female carpenter bees can stinge while males are often more territorial but harmless. Males have a distinctive light patch on their face. • Shiney Hiney!",
+    "explanation": "Male carpenter bees have a pale patch on the face and cannot sting, though they may fly toward or buzz near people while defending territory. Females can sting, so do not handle either sex based only on behavior.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 151
@@ -388,7 +388,7 @@
       "Carpenter ants"
     ],
     "answer": 3,
-    "explanation": "Carpenter ants. Source slide 152: Carpenter ants — frass, insect parts — treatment Carpenter ants produce frass containing insect parts and wood debris while excavating galleries.",
+    "explanation": "Carpenter ants excavate galleries in wood rather than eating the wood. Their frass may contain wood debris and insect parts, which can help distinguish their activity from other wood damage.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 152
@@ -406,7 +406,7 @@
       "Their nesting behavior and management differ"
     ],
     "answer": 3,
-    "explanation": "Their nesting behavior and management differ. Source slide 153: Difference between black carpenter ants • Carpenter ants and field ants differ in nesting behavior, and black field ants size, thorax shape, and management considerations.",
+    "explanation": "Carpenter ants and black field ants differ in nesting habits and physical features, so their identification and management may differ. Confirm the ant and nest location before choosing a control method.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 153
@@ -424,7 +424,7 @@
       "Sensitive occupants and exposure concerns"
     ],
     "answer": 3,
-    "explanation": "Sensitive occupants and exposure concerns. Source slide 154: Special accounts — hospitals, schools, daycare Sensitive accounts require extra caution due to vulnerable populations and exposure concerns.",
+    "explanation": "Hospitals, schools, and daycare facilities may include people who are more vulnerable to pesticide exposure. Use careful inspection, prevention, and monitoring, and consider occupants before selecting any treatment.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 154
@@ -434,7 +434,7 @@
   {
     "id": "C7-125",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "What does the presentation emphasize first in school IPM?",
+    "question": "What should school IPM prioritize before considering pesticide applications?",
     "options": [
       "Nonchemical prevention and monitoring",
       "Using the strongest available concentrate",
@@ -442,7 +442,7 @@
       "Unscheduled broadcast spraying"
     ],
     "answer": 0,
-    "explanation": "Nonchemical prevention and monitoring. Source slide 155: School IPM — School IPM emphasizes no chemicals minimizing unless pesticide exposure necessary and using non- chemical methods first.",
+    "explanation": "School IPM starts with prevention and monitoring, using nonchemical measures where practical. Pesticides should be considered only when evidence and the situation justify them, with exposure minimized.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 155
@@ -460,7 +460,7 @@
       "Review monitoring evidence and avoid unnecessary routine spraying"
     ],
     "answer": 3,
-    "explanation": "Review monitoring evidence and avoid unnecessary routine spraying. Source slide 156: Routine baseboard spraying is discouraged in school environments due to exposure concerns. No baseboard spraying",
+    "explanation": "School IPM considers occupant exposure and uses monitoring to confirm pest activity. Routine baseboard spraying without evidence is not justified; select targeted controls only when inspection findings support them.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 156
@@ -478,7 +478,7 @@
       "Carpenter ant"
     ],
     "answer": 0,
-    "explanation": "Rice weevil. Source slide 157: ID of rice weevil — snout, wings, light colored 4 spots Rice weevils are identified by their snout and four light-colored spots on the wing covers.",
+    "explanation": "Rice weevil. Rice weevils are identified by their snout and four light-colored spots on the wing covers.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 157
@@ -496,7 +496,7 @@
       "Assume every species may be killed"
     ],
     "answer": 1,
-    "explanation": "Check Tennessee wildlife protections and applicable requirements. Source slide 158: Snakes are protected • Many native snake species are protected under Tennessee wildlife laws. Applicators must understand legal restrictions involving handling or killing wildlife.",
+    "explanation": "Check Tennessee wildlife protections and applicable requirements. Many native snake species are protected under Tennessee wildlife laws. Applicators must understand legal restrictions involving handling or killing wildlife.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 158
@@ -514,7 +514,7 @@
       "That Category 7 covers every wildlife action"
     ],
     "answer": 2,
-    "explanation": "Required permits and species-specific authority. Source slide 159: Permit for wildlife • Wildlife removal or handling may require special permits depending on species and circumstances.",
+    "explanation": "Required permits and species-specific authority. Wildlife removal or handling may require special permits depending on species and circumstances.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 159
@@ -524,7 +524,7 @@
   {
     "id": "C7-130",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "A customer asks you to remove protected geese from a site. Which response fits the training?",
+    "question": "Geese are protected in many circumstances. What should a pest-management professional do before any removal action?",
     "options": [
       "Check federal migratory-bird protections and required permits",
       "Remove nesting geese with any insecticide",
@@ -532,7 +532,7 @@
       "Proceed without identifying the birds"
     ],
     "answer": 0,
-    "explanation": "Check federal migratory-bird protections and required permits. Source slide 160: Federal permit needed on geese / migratory birds • Many migratory bird species, including geese, are federally protected and may require permits before removal or control actions. • The Federal Migratory Bird Treaty Act (MBTA), enacted in 1918, is one of the United States' oldest and most comprehensive environmental laws",
+    "explanation": "Check federal migratory-bird protections and required permits. Many migratory bird species, including geese, are federally protected and may require permits before removal or control actions. The Federal Migratory Bird Treaty Act (MBTA), enacted in 1918, is one of the United States' oldest and most comprehensive environmental laws",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 160
@@ -542,15 +542,15 @@
   {
     "id": "C7-131",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "The presentation mentions changes to mosquito-related Tennessee category authority. What is the responsible current-practice step?",
+    "question": "Tennessee mosquito-related category authority can change. What is the responsible current-practice step?",
     "options": [
-      "Assume an old slide overrides current rules",
+      "Assume outdated class material overrides current rules",
       "Infer authority from a pesticide's brand name",
       "Treat public land under any credential",
       "Verify present certification scope with the state"
     ],
     "answer": 3,
-    "explanation": "Verify present certification scope with the state. Source slide 161: Used to have Cat 3 for mosquito now Cat 7 added Changes in Tennessee licensing or category authority involving mosquito applications. Category 7 (Industrial, Institutional, Structural, and Health-Related Pest Control): This is the primary structural pest control classification. Holding a Category 7 license certifies you to",
+    "explanation": "Tennessee licensing categories and their permitted scope can change. Check current requirements with the state before performing mosquito-related work; older category descriptions may not reflect present authorization.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 161
@@ -560,7 +560,7 @@
   {
     "id": "C7-132",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "Which opening size in the presentation warrants attention during rat exclusion?",
+    "question": "What opening size can rats enter, making small gaps important during exclusion?",
     "options": [
       "Only open garage doors",
       "Only cracks wider than two inches",
@@ -568,7 +568,7 @@
       "An opening about one-half inch wide"
     ],
     "answer": 3,
-    "explanation": "An opening about one-half inch wide. Source slide 162: How small of a hole can a rat enter — 1/2 inch • Rats can enter openings approximately 1/2 inch wide, making exclusion an important management strategy.",
+    "explanation": "An opening about one-half inch wide. Rats can enter openings approximately 1/2 inch wide, making exclusion an important management strategy.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 162
@@ -586,7 +586,7 @@
       "House mouse only"
     ],
     "answer": 1,
-    "explanation": "Norway rat. Source slide 163: Characteristics of Norway rat — burrow Norway rats commonly burrow and are associated with ground- level nesting areas.",
+    "explanation": "Norway rats commonly excavate burrows and nest at ground level or near foundations. These behaviors can help distinguish them from roof rats, which more often use elevated routes.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 163
@@ -604,7 +604,7 @@
       "Squirrel"
     ],
     "answer": 2,
-    "explanation": "Norway rat. Source slide 164: 12–20 oz, stocky body, small head, close-set ears, blunt nose, tail not long • These are physical identification characteristics associated with Norway rats.",
+    "explanation": "Norway rats are typically stocky, with a blunt nose, relatively small head and ears, and a tail shorter than the body. Consider several traits together when identifying a rodent.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 164
@@ -622,7 +622,7 @@
       "Cotton rat exclusively"
     ],
     "answer": 1,
-    "explanation": "Roof rat. Source slide 165: Roof rat — smaller, longer tail, found up high • Roof rats are agile climbers associated with elevated nesting areas and have tails longer than body length.",
+    "explanation": "Roof rat. Roof rats are agile climbers associated with elevated nesting areas and have tails longer than body length.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 165
@@ -632,7 +632,7 @@
   {
     "id": "C7-136",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "A suspected termite swarming event occurs near dusk. Which nonnative subterranean termite discussed in the slides merits consideration?",
+    "question": "A suspected termite swarming event occurs near dusk. Which nonnative subterranean termite merits consideration?",
     "options": [
       "Carpenter ant exclusively",
       "Formosan termite",
@@ -640,7 +640,7 @@
       "Lyctid beetle"
     ],
     "answer": 1,
-    "explanation": "Formosan termite. Source slide 166: Native swarm early in the day — Formosans at evening",
+    "explanation": "Swarm timing can help distinguish termite types: Formosan subterranean termites commonly swarm in the evening, while many native subterranean termites swarm earlier in the day. Timing is a clue, not a complete identification.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 166
@@ -658,7 +658,7 @@
       "Phorid fly"
     ],
     "answer": 1,
-    "explanation": "Casemaking clothes moth. Source slide 167: Casemaking clothes moth — pictures of casing Casemaking clothes moth larvae construct portable silk cases that aid identification",
+    "explanation": "Casemaking clothes moth. Casemaking clothes moth larvae construct portable silk cases that aid identification",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 167
@@ -676,7 +676,7 @@
       "Reticulitermes"
     ],
     "answer": 3,
-    "explanation": "Reticulitermes. Source slide 168: • The UT Institute of Agriculture identifies three native species belonging to the genus Reticulitermes: • Eastern Subterranean Termite (Reticulitermes flavipes)Status: Most common and destructive species across Tennessee. Most serious • • Swarm Timing: Typically swarms during the day from February to May. Appearance: Winged",
+    "explanation": "Reticulitermes is a genus of native subterranean termites that includes the Eastern subterranean termite (Reticulitermes flavipes), a common and damaging species in Tennessee. Swarm timing and appearance can help with identification but should be considered alongside other evidence.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 168
@@ -694,7 +694,7 @@
       "Every pellet is always pure white"
     ],
     "answer": 2,
-    "explanation": "Pellet color can reflect the wood being fed upon. Source slide 169: Drywood fecal pellets — color of wood they feed on Drywood termite fecal pellets often resemble the color of the wood being consumed.",
+    "explanation": "Pellet color can reflect the wood being fed upon. Drywood fecal pellets — color of wood they feed on Drywood termite fecal pellets often resemble the color of the wood being consumed.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 169
@@ -712,7 +712,7 @@
       "Hard, grainy, six-sided pellets"
     ],
     "answer": 3,
-    "explanation": "Hard, grainy, six-sided pellets. Source slide 170: Drywood termite pellets are distinctive because they are hard, grainy, and six-sided. Grainy, six- sided",
+    "explanation": "Drywood termite fecal pellets are typically hard, grainy, and six-sided. Those physical features can help distinguish the pellets during an inspection.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 170
@@ -730,7 +730,7 @@
       "In soil beneath the slab or foundation"
     ],
     "answer": 3,
-    "explanation": "In soil beneath the slab or foundation. Source slide 171: Horizontal barrier • A horizontal termiticide barrier is created beneath slabs or foundations to prevent subterranean termite entry from below.",
+    "explanation": "A horizontal soil treatment is placed beneath a slab or foundation to help create a barrier against subterranean termite entry from below. Any treatment must match the product label and site conditions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 171
@@ -748,7 +748,7 @@
       "Termites cannot follow cracks"
     ],
     "answer": 0,
-    "explanation": "Joints and cracks may allow termite entry. Source slide 172: Expansion joints and cracks where termites come up • Expansion joints and cracks are common termite entry points and require careful inspection and treatment.",
+    "explanation": "Joints and cracks may allow termite entry. Expansion joints and cracks are common termite entry points and require careful inspection and treatment.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 172
@@ -758,7 +758,7 @@
   {
     "id": "C7-143",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "Using the presentation's classroom rate of one gallon per ten square feet, how much finished solution corresponds to 200 square feet?",
+    "question": "At an illustrative rate of one gallon per ten square feet, how much finished solution corresponds to 200 square feet?",
     "options": [
       "200 gallons",
       "100 gallons",
@@ -766,7 +766,7 @@
       "2 gallons"
     ],
     "answer": 2,
-    "explanation": "20 gallons. Source slide 173: 1 gallon per 10 sq ft under slab • Standard horizontal termiticide applications beneath slabs are commonly applied at 1 gallon per 10 square feet.",
+    "explanation": "At the illustrative rate of 1 gallon per 10 square feet, 200 square feet ÷ 10 equals 20 gallons. This is only an example calculation; use the actual product label and applicable rules for any treatment.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 173
@@ -784,7 +784,7 @@
       "40 gallons"
     ],
     "answer": 2,
-    "explanation": "120 gallons. Source slide 174: 1200 sq ft slab = 120 gallons",
+    "explanation": "At the stated example rate of 1 gallon per 10 square feet, 1,200 square feet divided by 10 equals 120 gallons. This is only the arithmetic for the classroom example; actual applications must follow the product label and applicable rules.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 174
@@ -794,7 +794,7 @@
   {
     "id": "C7-145",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "What is the primary location for a vertical soil termiticide treatment in the presentation?",
+    "question": "Where is a vertical soil termiticide treatment commonly placed?",
     "options": [
       "Furniture upholstery",
       "Soil adjacent to foundation walls",
@@ -802,7 +802,7 @@
       "Roof shingles"
     ],
     "answer": 1,
-    "explanation": "Soil adjacent to foundation walls. Source slide 175: • Vertical barriers are Vertical block wall created by treating soil treatment adjacent to foundation walls or within hollow block voids.",
+    "explanation": "A vertical soil treatment is placed in soil next to foundation walls to form a barrier against termite entry. Some methods may involve hollow block voids, but only when allowed by the product label.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 175
@@ -812,7 +812,7 @@
   {
     "id": "C7-146",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "For a labeled treatment using the presentation's example of four gallons per ten linear feet per foot of depth, what is needed for ten feet at two feet deep?",
+    "question": "For a labeled treatment using an example rate of four gallons per ten linear feet per foot of depth, what is needed for ten feet at two feet deep?",
     "options": [
       "4 gallons",
       "2 gallons",
@@ -820,7 +820,7 @@
       "40 gallons"
     ],
     "answer": 2,
-    "explanation": "8 gallons. Source slide 176: Vertical treatments are commonly applied at 4 gallons per 10 linear feet per foot of depth. 4 gallons per 10 linear feet",
+    "explanation": "At the stated example rate, 4 gallons per 10 linear feet per foot of depth, 10 feet at 2 feet deep requires 4 × (10 ÷ 10) × 2 = 8 gallons. This is only the example calculation; actual applications must follow the product label and applicable rules.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 176
@@ -838,7 +838,7 @@
       "It affects whether the intended soil treatment zone is reached"
     ],
     "answer": 3,
-    "explanation": "It affects whether the intended soil treatment zone is reached. Source slide 177: Backfill must go at least 6 inches deep Backfill treatments require adequate depth to establish effective soil barriers.",
+    "explanation": "Treatment depth affects whether the treated soil reaches the intended zone alongside the foundation. Follow the specific product label and applicable requirements for the treatment method and depth.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 177
@@ -848,7 +848,7 @@
   {
     "id": "C7-148",
     "topic": "Wood-destroying organisms / WDO",
-    "question": "If the foundation footer is deeper than the excavation access, what technique does the presentation discuss?",
+    "question": "If the foundation footer is deeper than the excavation access, which technique may reach the intended depth where permitted?",
     "options": [
       "Placing bait in a tree",
       "Skipping all foundation assessment",
@@ -856,7 +856,7 @@
       "Rodding to reach the intended depth where permitted"
     ],
     "answer": 3,
-    "explanation": "Rodding to reach the intended depth where permitted. Source slide 178: Could be deeper — use rod to get to footer Deep foundations may require rodding to ensure termiticide reaches the footer area.",
+    "explanation": "Rodding can deliver treatment into deeper soil when excavation does not reach the foundation footer, if the method and site are allowed by the product label. Do not use an example or general practice in place of label directions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 178
@@ -874,7 +874,7 @@
       "Only steel buildings"
     ],
     "answer": 1,
-    "explanation": "Newer construction with susceptible hardwood. Source slide 179: Lyctid powderpost beetles Lyctid powderpost beetles infest hardwoods and are commonly associated with newer wood products.",
+    "explanation": "Lyctid powderpost beetles attack susceptible hardwoods, so hardwood components in newer construction can be vulnerable. Inspect the wood and evidence of activity rather than assuming every new structure is infested.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 179
@@ -892,7 +892,7 @@
       "Ring-porous hardwood such as oak or ash"
     ],
     "answer": 3,
-    "explanation": "Ring-porous hardwood such as oak or ash. Source slide 180: Feed on ring porous hardwoods Lyctid powderpost beetles prefer ring-porous hardwoods such as oak and ash.",
+    "explanation": "Lyctid powderpost beetles are associated with ring-porous hardwoods such as oak and ash. Identifying the wood type can help assess whether it is susceptible to this beetle.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 180

@@ -10,7 +10,7 @@
       "Treat every room"
     ],
     "answer": 0,
-    "explanation": "Slide 7 explains: Inspection Inspection is the first stage of IPM. The applicator searches for pest evidence, conducive conditions, entry points, moisture, food sources, and harborage areas before treatment decisions are made.",
+    "explanation": "Inspection is the first step in an IPM response. Look for pest evidence and conditions that support pests—such as entry points, moisture, food, and harborage—before choosing a control measure.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 7
@@ -20,7 +20,7 @@
   {
     "id": "C7-002",
     "topic": "IPM and inspection",
-    "question": "Which sequence best represents the IPM process described in the training?",
+    "question": "Which sequence describes the IPM process?",
     "options": [
       "Identify, monitor, assess threshold, manage, evaluate",
       "Treat, bill, repeat",
@@ -28,7 +28,7 @@
       "Monitor only after a customer complains"
     ],
     "answer": 0,
-    "explanation": "Slide 6 explains: Integrated Pest Management is a prevention-focused decision-making system emphasizing inspection, monitoring, thresholds, least- hazardous management, and evaluation.",
+    "explanation": "Integrated Pest Management is a prevention-focused decision-making system emphasizing inspection, monitoring, thresholds, least- hazardous management, and evaluation.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 6
@@ -46,7 +46,7 @@
       "The point where pest activity becomes unacceptable and action is justified"
     ],
     "answer": 3,
-    "explanation": "Slide 8 explains: A pest threshold is the level at which pest activity becomes unacceptable and action is justified. Thresholds vary depending on pest type, environment, health concerns, and customer tolerance.",
+    "explanation": "A pest threshold is the level at which pest activity becomes unacceptable and action is justified. Thresholds vary depending on pest type, environment, health concerns, and customer tolerance.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 8
@@ -64,7 +64,7 @@
       "Outside ants are always harmless"
     ],
     "answer": 1,
-    "explanation": "Slide 16 explains: Customer tolerance plays a major role in determining pest thresholds. One pest may be unacceptable in one environment while tolerated in another.",
+    "explanation": "Customer tolerance plays a major role in determining pest thresholds. One pest may be unacceptable in one environment while tolerated in another.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 16
@@ -82,7 +82,7 @@
       "Count treatment visits only"
     ],
     "answer": 1,
-    "explanation": "Slide 10 explains: Evaluation determines whether the treatment or management strategy was successful and whether additional action is needed.",
+    "explanation": "Evaluation determines whether the treatment or management strategy was successful and whether additional action is needed.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 10
@@ -100,7 +100,7 @@
       "Tire-pressure gauge"
     ],
     "answer": 1,
-    "explanation": "Slide 11 explains: Inspection equipment may include flashlights, PPE, mirrors, glue boards, moisture meters, and monitoring devices. Proper inspection tools improve pest identification and treatment decisions.",
+    "explanation": "Inspection equipment may include flashlights, PPE, mirrors, glue boards, moisture meters, and monitoring devices. Proper inspection tools improve pest identification and treatment decisions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 11
@@ -110,7 +110,7 @@
   {
     "id": "C7-007",
     "topic": "IPM and inspection",
-    "question": "You cannot confidently identify an unusual insect. What resource does the presentation recommend?",
+    "question": "You cannot confidently identify an unusual insect. What resource can help with identification?",
     "options": [
       "Guess from its size",
       "Use a county Extension office or entomologist",
@@ -118,7 +118,7 @@
       "Apply more insecticide"
     ],
     "answer": 1,
-    "explanation": "Slide 12 explains: County extension offices and extension entomologists may assist with proper insect identification when applicators are uncertain.",
+    "explanation": "County extension offices and extension entomologists may assist with proper insect identification when applicators are uncertain.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 12
@@ -136,7 +136,7 @@
       "Warm and humid"
     ],
     "answer": 3,
-    "explanation": "Slide 14 explains: Warm and humid environments strongly favor many structural pests including cockroaches, flies, termites, and stored product pests.",
+    "explanation": "Warm and humid environments strongly favor many structural pests including cockroaches, flies, termites, and stored product pests.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 14
@@ -154,7 +154,7 @@
       "Replace all inspections"
     ],
     "answer": 1,
-    "explanation": "Slide 15 explains: Monitors such as glue boards, pheromone traps, and insect traps help determine pest activity levels and locations.",
+    "explanation": "Monitors such as glue boards, pheromone traps, and insect traps help determine pest activity levels and locations.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 15
@@ -172,7 +172,7 @@
       "Increasing room humidity"
     ],
     "answer": 2,
-    "explanation": "Slide 18 explains: Pest exclusion or pest proofing involves physically preventing pests from entering a structure. This includes sealing cracks, repairing screens, weather stripping, installing door sweeps, and correcting openings around pipes and utility penetrations",
+    "explanation": "Pest exclusion or pest proofing involves physically preventing pests from entering a structure. This includes sealing cracks, repairing screens, weather stripping, installing door sweeps, and correcting openings around pipes and utility penetrations",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 18
@@ -190,7 +190,7 @@
       "Evidence of termite mud tubes"
     ],
     "answer": 0,
-    "explanation": "Slide 19 explains: Visible daylight under a door indicates a likely pest entry point. Rodents, insects, and crawling pests may enter through these openings. Proper door sweeps reduce pest access.",
+    "explanation": "Visible daylight under a door indicates a likely pest entry point. Rodents, insects, and crawling pests may enter through these openings. Proper door sweeps reduce pest access.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 19
@@ -208,7 +208,7 @@
       "Removing monitoring traps"
     ],
     "answer": 0,
-    "explanation": "Slide 20 explains: Habitat manipulation changes the environment to make it less favorable for pests. This is one of the core principles of Integrated Pest Management.",
+    "explanation": "Habitat manipulation changes the environment to make it less favorable for pests. This is one of the core principles of Integrated Pest Management.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 20
@@ -226,7 +226,7 @@
       "Removing spills and food debris"
     ],
     "answer": 3,
-    "explanation": "Slide 21 explains: Sanitation removes food sources, spills, clutter, grease, garbage, and organic debris that support pest survival and reproduction.",
+    "explanation": "Sanitation removes food sources, spills, clutter, grease, garbage, and organic debris that support pest survival and reproduction.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 21
@@ -244,7 +244,7 @@
       "Moisture always repels termites"
     ],
     "answer": 0,
-    "explanation": "Slide 22 explains: Moisture reduction is critical because many pests require humid conditions to survive. Leaks, condensation, standing water, and poor drainage increase pest pressure.",
+    "explanation": "Moisture reduction is critical because many pests require humid conditions to survive. Leaks, condensation, standing water, and poor drainage increase pest pressure.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 22
@@ -262,7 +262,7 @@
       "A state examination fee"
     ],
     "answer": 0,
-    "explanation": "Slide 23 explains: Harborage areas are locations where pests hide, nest, or reproduce. Removing clutter, cardboard, debris, and void spaces reduces pest survival.",
+    "explanation": "Harborage areas are locations where pests hide, nest, or reproduce. Removing clutter, cardboard, debris, and void spaces reduces pest survival.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 23
@@ -280,7 +280,7 @@
       "Applying pesticide without inspection"
     ],
     "answer": 0,
-    "explanation": "Slide 24 explains: Pest removal involves physically removing pests through traps, exclusion devices, vacuuming, or mechanical methods rather than relying solely on pesticides.",
+    "explanation": "Pest removal involves physically removing pests through traps, exclusion devices, vacuuming, or mechanical methods rather than relying solely on pesticides.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 24
@@ -290,7 +290,7 @@
   {
     "id": "C7-017",
     "topic": "IPM and inspection",
-    "question": "Which of these is classified as a lethal rodent trap in the presentation?",
+    "question": "Which of these is a lethal rodent trap?",
     "options": [
       "A pheromone lure",
       "A glue-board insect monitor",
@@ -298,7 +298,7 @@
       "A snap trap"
     ],
     "answer": 3,
-    "explanation": "Slide 25 explains: Lethal traps are mechanical devices designed to kill rodents quickly. These include snap traps and certain multi- catch lethal devices.",
+    "explanation": "Lethal traps are mechanical devices designed to kill rodents quickly. These include snap traps and certain multi- catch lethal devices.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 25
@@ -316,7 +316,7 @@
       "Treating unrelated rooms"
     ],
     "answer": 2,
-    "explanation": "Slide 26 explains: Monitoring and evaluation determine whether pest management efforts were successful. Glue boards, visual inspections, and traps help determine if additional treatment is necessary.",
+    "explanation": "Monitoring and evaluation determine whether pest management efforts were successful. Glue boards, visual inspections, and traps help determine if additional treatment is necessary.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 26
@@ -334,7 +334,7 @@
       "They may contaminate food and carry pathogens"
     ],
     "answer": 3,
-    "explanation": "Slide 27 explains: Pests found near food are particularly important because they may contaminate food products and spread pathogens.",
+    "explanation": "Pests found near food are particularly important because they may contaminate food products and spread pathogens.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 27
@@ -352,7 +352,7 @@
       "They only damage wood"
     ],
     "answer": 2,
-    "explanation": "Slide 28 explains: Cockroaches contaminate food, trigger allergies, and spread bacteria mechanically. German cockroaches are especially important structural pests.",
+    "explanation": "Cockroaches contaminate food, trigger allergies, and spread bacteria mechanically. German cockroaches are especially important structural pests.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 28
@@ -370,7 +370,7 @@
       "All ant species require identical control"
     ],
     "answer": 0,
-    "explanation": "Slide 29 explains: Ants may contaminate food and become nuisance pests indoors. Proper identification is important because treatment methods vary by species.",
+    "explanation": "Ants may contaminate food and become nuisance pests indoors. Proper identification is important because treatment methods vary by species.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 29
@@ -388,7 +388,7 @@
       "They always indicate termite activity"
     ],
     "answer": 2,
-    "explanation": "Slide 30 explains: Flies are strongly associated with sanitation problems and may mechanically transmit pathogens from waste to food surfaces.",
+    "explanation": "Flies are strongly associated with sanitation problems and may mechanically transmit pathogens from waste to food surfaces.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 30
@@ -406,7 +406,7 @@
       "Ants"
     ],
     "answer": 3,
-    "explanation": "Slide 31 explains: Ants and termites are commonly confused during swarming. Ants have elbowed antennae and narrow waists while termites have straight antennae and broad waists.",
+    "explanation": "Ants and termites are commonly confused during swarming. Ants have elbowed antennae and narrow waists while termites have straight antennae and broad waists.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 31
@@ -424,7 +424,7 @@
       "Three body segments with narrow petiole"
     ],
     "answer": 0,
-    "explanation": "Slide 31 explains: Ants and termites are commonly confused during swarming. Ants have elbowed antennae and narrow waists while termites have straight antennae and broad waists.",
+    "explanation": "Ants and termites are commonly confused during swarming. Ants have elbowed antennae and narrow waists while termites have straight antennae and broad waists.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 31
@@ -442,7 +442,7 @@
       "A type of insect molt"
     ],
     "answer": 1,
-    "explanation": "Slide 34 explains: Trophallaxis is the transfer of liquid food among colony members. This process spreads nutrients and also spreads bait toxicants throughout the colony.",
+    "explanation": "Trophallaxis is the transfer of liquid food among colony members. This process spreads nutrients and also spreads bait toxicants throughout the colony.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 34
@@ -460,7 +460,7 @@
       "All baits repel workers"
     ],
     "answer": 2,
-    "explanation": "Slide 32 explains: Food collected by worker ants is distributed throughout the colony using trophallaxis. This allows baits to spread through colony members.",
+    "explanation": "Food collected by worker ants is distributed throughout the colony using trophallaxis. This allows baits to spread through colony members.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 32
@@ -478,7 +478,7 @@
       "Cockroaches producing silk"
     ],
     "answer": 1,
-    "explanation": "Slide 33 explains: Baits take advantage of the natural foraging and food-sharing behavior of social insects. Non-repellent baits are often preferred in IPM programs because exposure risk is lower.",
+    "explanation": "Baits take advantage of the natural foraging and food-sharing behavior of social insects. Non-repellent baits are often preferred in IPM programs because exposure risk is lower.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 33
@@ -496,7 +496,7 @@
       "They can promote colony budding"
     ],
     "answer": 3,
-    "explanation": "Slide 35 explains: Repellent sprays may cause Pharaoh ant colonies to split or bud into multiple colonies, making infestations worse. Baits and non- repellent treatments are preferred.",
+    "explanation": "Repellent sprays may cause Pharaoh ant colonies to split or bud into multiple colonies, making infestations worse. Baits and non- repellent treatments are preferred.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 35
@@ -506,7 +506,7 @@
   {
     "id": "C7-029",
     "topic": "Structural pests and identification",
-    "question": "Pharaoh ants present special concerns in which setting described in the training?",
+    "question": "Pharaoh ants present special concerns in which setting?",
     "options": [
       "Only submerged drainage lines",
       "Hospital and healthcare equipment areas",
@@ -514,7 +514,7 @@
       "Only deep forests"
     ],
     "answer": 1,
-    "explanation": "Slide 36 explains: Pharaoh ants are especially problematic in hospitals and healthcare settings because they may contaminate sterile equipment and spread pathogens mechanically.",
+    "explanation": "Pharaoh ants are especially problematic in hospitals and healthcare settings because they may contaminate sterile equipment and spread pathogens mechanically.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 36
@@ -532,7 +532,7 @@
       "Holometabolous"
     ],
     "answer": 0,
-    "explanation": "Slide 37 explains: Proper identification of imported fire ants is important because they are aggressive, medically important, and regulated in some areas. (Polymorphic)",
+    "explanation": "Proper identification of imported fire ants is important because they are aggressive, medically important, and regulated in some areas. (Polymorphic)",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 37
@@ -550,7 +550,7 @@
       "To allow winged reproductives to establish new colonies"
     ],
     "answer": 3,
-    "explanation": "Slide 38 explains: Reproduction — mating flights Winged reproductives leave the colony during mating flights to establish new colonies.",
+    "explanation": "Winged reproductive ants leave a mature colony during mating flights and may start new colonies after mating. Seeing swarmers can therefore indicate a nearby colony or a reproductive event.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 38
@@ -568,7 +568,7 @@
       "To require routine indoor spraying"
     ],
     "answer": 0,
-    "explanation": "Slide 39 explains: Tennessee IFA Quarantine Imported Fire Ant (IFA) quarantine rules regulate movement of potentially infested materials to reduce spread of imported fire ants.",
+    "explanation": "Imported fire ant quarantine rules restrict movement of materials that could spread colonies. Check current requirements before moving potentially infested soil, plants, or other regulated materials.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 39
@@ -586,7 +586,7 @@
       "Strong gasoline odor"
     ],
     "answer": 2,
-    "explanation": "Slide 40 explains: Yellow ants — citronella ants Citronella ants are yellow ants named for the citronella odor released when crushed.",
+    "explanation": "Citronella ants are yellowish ants named for the citronella-like odor they release when crushed. Odor can support identification, but it should be considered with other features.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 40
@@ -604,7 +604,7 @@
       "A single petiole node hidden from dorsal view"
     ],
     "answer": 3,
-    "explanation": "Slide 41 explains: Odorous house ants — no node Odorous house ants have a single hidden node that is difficult to see from above.",
+    "explanation": "Odorous house ants have a single waist node that is usually hidden from above by the abdomen. Their odor and other physical traits help distinguish them from similar ants.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 41
@@ -622,7 +622,7 @@
       "Fresh-cut grass"
     ],
     "answer": 2,
-    "explanation": "Slide 42 explains: Rotten coconut odor When crushed, odorous house ants produce a rotten coconut-like odor that aids identification.",
+    "explanation": "When crushed, odorous house ants can release an odor often compared with rotten coconut. This is a useful clue, but confirm identification using additional characteristics.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 42
@@ -640,7 +640,7 @@
       "It transforms adult ants into larvae"
     ],
     "answer": 1,
-    "explanation": "Slide 43 explains: Non-repellent products allow ants to continue foraging and transfer toxicants throughout the colony.",
+    "explanation": "Non-repellent products allow ants to continue foraging and transfer toxicants throughout the colony.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 43
@@ -658,7 +658,7 @@
       "Larva, pupa, adult only"
     ],
     "answer": 0,
-    "explanation": "Slide 44 explains: Cockroaches — life cycle Cockroaches undergo gradual metamorphosis: egg, nymph, and adult stages.",
+    "explanation": "Cockroaches undergo gradual metamorphosis: they hatch from eggs, develop through nymph stages, and become adults. Nymphs resemble smaller, wingless versions of the adult.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 44
@@ -676,7 +676,7 @@
       "Structural foundation depth"
     ],
     "answer": 1,
-    "explanation": "Slide 45 explains: Glue boards and inspections help determine infestation locations, severity, and treatment effectiveness.",
+    "explanation": "Glue boards and inspections help determine infestation locations, severity, and treatment effectiveness.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 45
@@ -694,7 +694,7 @@
       "By increasing grease residue"
     ],
     "answer": 0,
-    "explanation": "Slide 46 explains: Sanitation removes food and water sources while exclusion prevents cockroach movement between units and rooms.",
+    "explanation": "Sanitation removes food and water sources while exclusion prevents cockroach movement between units and rooms.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 46
@@ -712,7 +712,7 @@
       "The inability to detect moisture"
     ],
     "answer": 1,
-    "explanation": "Slide 47 explains: Some cockroach populations may develop aversion to certain bait formulations or ingredients, reducing bait effectiveness. • To avoid this, rotate the bait applications.",
+    "explanation": "Some cockroaches can become less responsive to a particular bait formulation or ingredient, reducing its effectiveness. If monitoring shows poor results, reassess the bait and follow product-label directions rather than repeatedly applying an ineffective treatment.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 47
@@ -730,7 +730,7 @@
       "Oriental cockroach exclusively"
     ],
     "answer": 0,
-    "explanation": "Slide 48 explains: German cockroaches are the most important indoor structural cockroach pest. They reproduce rapidly and are strongly associated with food preparation and moisture.",
+    "explanation": "German cockroaches are the most important indoor structural cockroach pest. They reproduce rapidly and are strongly associated with food preparation and moisture.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 48
@@ -748,7 +748,7 @@
       "Water bug larva"
     ],
     "answer": 2,
-    "explanation": "Slide 49 explains: Brown-banded cockroaches prefer warmer and drier locations than German cockroaches and may infest ceilings, electronics, and furniture.",
+    "explanation": "Brown-banded cockroaches prefer warmer and drier locations than German cockroaches and may infest ceilings, electronics, and furniture.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 49
@@ -766,7 +766,7 @@
       "American cockroach"
     ],
     "answer": 3,
-    "explanation": "Slide 50 explains: American cockroaches are large roaches commonly associated with sewers, boiler rooms, and moist environments.",
+    "explanation": "American cockroaches are large roaches commonly associated with sewers, boiler rooms, and moist environments.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 50
@@ -784,7 +784,7 @@
       "Brown-banded cockroach"
     ],
     "answer": 1,
-    "explanation": "Slide 51 explains: Smokybrown cockroaches are large dark roaches commonly associated with humid outdoor environments in the South.",
+    "explanation": "Smokybrown cockroaches are large dark roaches commonly associated with humid outdoor environments in the South.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 51
@@ -802,7 +802,7 @@
       "Oriental cockroach"
     ],
     "answer": 3,
-    "explanation": "Slide 52 explains: Oriental cockroaches are dark- colored roaches associated with cool damp areas such as basements and drains.",
+    "explanation": "Oriental cockroaches are dark- colored roaches associated with cool damp areas such as basements and drains.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 52
@@ -820,7 +820,7 @@
       "Dry sealed metal storage only"
     ],
     "answer": 2,
-    "explanation": "Slide 54 explains: Fruit flies, drain flies, and phorid flies are small moisture-associated flies commonly found around decaying organic material and drains",
+    "explanation": "Fruit flies, drain flies, and phorid flies are small moisture-associated flies commonly found around decaying organic material and drains",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 54
@@ -838,7 +838,7 @@
       "Freshly painted metal"
     ],
     "answer": 2,
-    "explanation": "Slide 55 explains: Larger fly species such as blow flies and house flies are often associated with garbage, carcasses, waste, or decaying material.",
+    "explanation": "Larger fly species such as blow flies and house flies are often associated with garbage, carcasses, waste, or decaying material.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 55
@@ -856,7 +856,7 @@
       "Human louse"
     ],
     "answer": 1,
-    "explanation": "Slide 57 explains: Cat fleas are the most common flea species infesting homes and pets, even on dogs.",
+    "explanation": "Cat fleas are the most common flea species infesting homes and pets, even on dogs.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 57
@@ -874,7 +874,7 @@
       "Spray only the driveway"
     ],
     "answer": 1,
-    "explanation": "Slide 58 explains: Effective flea management requires treating the pet, vacuuming carpets, laundering bedding, and sometimes using insect growth regulators or insecticides.",
+    "explanation": "Effective flea management requires treating the pet, vacuuming carpets, laundering bedding, and sometimes using insect growth regulators or insecticides.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 58
@@ -892,7 +892,7 @@
       "Adult male ticks only"
     ],
     "answer": 1,
-    "explanation": "Slide 60 explains: Larvae / seed ticks / babies Seed ticks refer to larval ticks, the immature stage that emerges after eggs hatch.",
+    "explanation": "“Seed ticks” is a common name for newly hatched tick larvae. They are the immature stage that emerges from eggs; they are not seeds or a separate tick species.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 60

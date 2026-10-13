@@ -15,7 +15,6 @@
   const questionHeading = by('question');
   const options = by('options');
   const feedback = by('feedback');
-  const reference = by('reference');
   const quiz = by('quiz');
   const nextButton = by('next');
   const results = by('results');
@@ -35,8 +34,7 @@
       question.answer < 0 ||
       question.answer >= question.options.length ||
       typeof question.explanation !== 'string' ||
-      !question.source ||
-      question.source.slide === undefined
+      question.explanation.trim() === ''
     ) {
       throw new Error(`Category 7 question ${at + 1} has invalid data.`);
     }
@@ -45,8 +43,6 @@
     questionHeading.textContent = question.question;
     options.replaceChildren();
     feedback.replaceChildren();
-    reference.textContent =
-      `Source: training presentation slide ${question.source.slide}. Expert validation pending.`;
 
     question.options.forEach((option, index) => {
       const label = document.createElement('label');
@@ -116,10 +112,7 @@
           `Correct answer: ${String.fromCharCode(65 + question.answer)}. ${question.options[question.answer]}`;
         const explanation = document.createElement('p');
         explanation.textContent = question.explanation;
-        const source = document.createElement('p');
-        source.className = 'muted small';
-        source.textContent = `Source: training presentation slide ${question.source.slide}. Expert validation pending.`;
-        item.append(heading, response, correctAnswer, explanation, source);
+        item.append(heading, response, correctAnswer, explanation);
         review.append(item);
       });
     }

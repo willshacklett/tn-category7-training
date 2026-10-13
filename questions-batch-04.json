@@ -10,7 +10,7 @@
       "Porosity never influences deposits"
     ],
     "answer": 2,
-    "explanation": "Surface absorption can alter residue availability. Source slide 181: Pesticide formulations persist longer on non-porous surface Porous surfaces absorb pesticide formulations differently and may influence residual persistence.",
+    "explanation": "Porous surfaces can absorb part of a pesticide deposit, leaving less residue available at the surface; sealed, nonporous materials may leave more exposed residue. Actual performance depends on the formulation and label directions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 181
@@ -28,7 +28,7 @@
       "Waxed particulate"
     ],
     "answer": 0,
-    "explanation": "Wettable powder. Source slide 182: WP = Wettable Powder Wettable powders are dry pesticide formulations mixed with water to create a suspension.",
+    "explanation": "WP means wettable powder, a dry pesticide formulation mixed with water before use. Its particles form a suspension rather than dissolving completely.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 182
@@ -46,7 +46,7 @@
       "They cease to contain active ingredient"
     ],
     "answer": 1,
-    "explanation": "They form a suspension rather than fully dissolving. Source slide 183: Does not dissolve in water Wettable powders remain suspended rather than dissolving completely in water.",
+    "explanation": "Wettable powder particles stay dispersed in water as a suspension instead of dissolving completely. Suspended particles can settle, so maintain the mixture as the product label directs.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 183
@@ -64,7 +64,7 @@
       "Stop all mixing permanently"
     ],
     "answer": 1,
-    "explanation": "Maintain adequate agitation according to label directions. Source slide 184: Wettable powders require agitation during application to maintain even suspension. Needs to be shaken/agitated to stay suspended",
+    "explanation": "Wettable powder can settle out of water while a tank stands. Agitate it as the product label directs to keep the mixture uniform during application.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 184
@@ -82,7 +82,7 @@
       "A powdery residue"
     ],
     "answer": 3,
-    "explanation": "A powdery residue. Source slide 185: Will leave a powdery residue • Wettable powders commonly leave visible powdery residues after drying.",
+    "explanation": "Some wettable powders leave visible powdery residue after the water dries. This residue is a characteristic of the formulation and should be considered when selecting a product and application site.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 185
@@ -100,7 +100,7 @@
       "Baits never contain pesticide"
     ],
     "answer": 2,
-    "explanation": "Targeted placement can reduce exposure while addressing pest behavior. Source slide 186: Pesticides that have low impact — baits • Baits are considered lower- impact pesticide options because they target pests directly while reducing exposure to occupants.",
+    "explanation": "Baits target pests that feed on them and can reduce the amount of pesticide applied in some situations. They still contain pesticide and must be selected, placed, and secured according to the product label.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 186
@@ -118,7 +118,7 @@
       "Using an appropriate tamper-resistant bait station as label requires"
     ],
     "answer": 3,
-    "explanation": "Using an appropriate tamper-resistant bait station as label requires. Source slide 187: • Rodenticide and insecticide baits Keep in a station are commonly placed inside tamper-resistant stations for safety and containment.",
+    "explanation": "A tamper-resistant bait station contains bait and helps limit access by children, pets, and other non-targets. Use a station and placement allowed by the product label, and inspect it as directed.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 187
@@ -136,7 +136,7 @@
       "Expected pests, site conditions, and safety needs"
     ],
     "answer": 3,
-    "explanation": "Expected pests, site conditions, and safety needs. Source slide 188: Essential pieces of equipment Proper inspection equipment improves pest identification, monitoring, and treatment accuracy.",
+    "explanation": "Choose inspection equipment based on the pests being investigated, the site conditions, and the technician’s safety needs. Appropriate tools support accurate identification and monitoring.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 188
@@ -154,7 +154,7 @@
       "Pests and evidence are hidden in dark voids and cracks"
     ],
     "answer": 3,
-    "explanation": "Pests and evidence are hidden in dark voids and cracks. Source slide 189: Flashlight • Flashlights are essential during inspections because many pests hide in dark cracks, voids, and inaccessible areas.",
+    "explanation": "A flashlight helps reveal pests and evidence hidden in dark cracks, voids, and other poorly lit areas. Good lighting improves the inspection before any control decision is made.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 189
@@ -172,7 +172,7 @@
       "Remove the need to inspect"
     ],
     "answer": 2,
-    "explanation": "Contain bait and help limit nontarget exposure. Source slide 190: Bait stations Bait stations protect bait from non- target exposure and environmental contamination.",
+    "explanation": "A suitable bait station contains bait and can reduce access by non-target people or animals and environmental contamination. Select and place stations according to the product label.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 190
@@ -190,7 +190,7 @@
       "Throw out all treatment records"
     ],
     "answer": 1,
-    "explanation": "Compare captures and activity to evaluate trends. Source slide 191: Trap / monitor Monitoring devices help determine pest activity, infestation severity, and treatment success.",
+    "explanation": "Compare trap counts and locations over time to identify changes in pest activity and assess whether management measures are working. A single capture count is less informative than a monitored trend.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 191
@@ -208,7 +208,7 @@
       "Hard hat"
     ],
     "answer": 3,
-    "explanation": "Hard hat. Source slide 192: Hard hat (PPE) • Personal protective equipment protects applicators from physical and chemical hazards during inspections and treatments.",
+    "explanation": "A hard hat protects the applicator from physical hazards such as falling or overhead objects. Select personal protective equipment for all hazards at the site, in addition to any PPE required by the pesticide label.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 192
@@ -226,7 +226,7 @@
       "It uses the maximum pesticide volume"
     ],
     "answer": 1,
-    "explanation": "Multiple evidence-based methods are integrated and evaluated. Source slide 193: IPM — Integrated Pest Management • Integrated Pest Management combines inspection, monitoring, sanitation, exclusion, and limited pesticide use to manage pests effectively and safely.",
+    "explanation": "Integrated Pest Management (IPM) combines inspection, monitoring, sanitation, exclusion, and other appropriate controls, then evaluates results. Pesticides are one possible tool, not a substitute for identifying and addressing the cause.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 193
@@ -244,7 +244,7 @@
       "Whether more lamps can be installed"
     ],
     "answer": 1,
-    "explanation": "Whether lighting contributes to the pest problem. Source slide 194: We’ll leave the lights on — Motel 6",
+    "explanation": "Some flying insects are attracted to exterior lights. Assess the fixtures’ type, placement, timing, and intensity to determine whether lighting contributes to the pest activity before recommending a change.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 194
@@ -262,7 +262,7 @@
       "Leave all loading doors propped open"
     ],
     "answer": 0,
-    "explanation": "Adjust lighting placement, timing, or intensity. Source slide 195: Lights attract bugs — turn off after 10 pm • Exterior lighting attracts many flying insects. Reducing unnecessary lighting may reduce pest activity.",
+    "explanation": "Exterior lights can attract flying insects. Reducing unnecessary lighting or changing its placement, timing, or intensity may reduce attraction, depending on the site and pest.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 195
@@ -280,7 +280,7 @@
       "They do not contain active ingredients"
     ],
     "answer": 2,
-    "explanation": "They can pose greater inhalation and contamination concerns. Source slide 196: Tracking powders — more hazardous than other rodenticide formulations • Tracking powders may create inhalation or contamination risks because rodents spread powder on their bodies and surfaces.",
+    "explanation": "Tracking powders can be spread by rodents onto surfaces and may become airborne, creating inhalation or contamination concerns. Use them only when allowed by the label and take precautions to prevent exposure.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 196
@@ -298,7 +298,7 @@
       "Always exceed maximum label rate"
     ],
     "answer": 2,
-    "explanation": "Apply the minimum effective labeled treatment, never below a required label rate. Source slide 197: Want it to be a low dose — yes IPM emphasizes using the lowest effective amount of pesticide necessary for control.",
+    "explanation": "IPM uses only the amount of pesticide needed for effective control, but never below a minimum rate or in a manner that conflicts with the label. Follow the exact product directions and applicable rules.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 197
@@ -316,7 +316,7 @@
       "A termite that exclusively lives in concrete"
     ],
     "answer": 0,
-    "explanation": "An arthropod that enters buildings incidentally or seasonally. Source slide 198: Occasional Invaders • Occasional invaders are nuisance pests entering structures accidentally or seasonally.",
+    "explanation": "An occasional invader enters a building by chance or seasonally and typically does not establish a reproducing indoor population. Exclusion and correction of attractants are often more useful than routine indoor pesticide application.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 198
@@ -334,7 +334,7 @@
       "They bore into sound structural lumber"
     ],
     "answer": 0,
-    "explanation": "They aggregate in or around structures even though beneficial outside. Source slide 199: Multicolored Asian • Multicolored Asian lady beetles are beneficial predators lady beetle outdoors but become nuisance invaders indoors during colder seasons.",
+    "explanation": "Multicolored Asian lady beetles prey on pests outdoors but may gather around buildings and enter them to overwinter. Sealing entry points can reduce indoor nuisance problems while preserving their outdoor role.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 199
@@ -352,7 +352,7 @@
       "They prey on aphids and other soft-bodied plant pests"
     ],
     "answer": 3,
-    "explanation": "They prey on aphids and other soft-bodied plant pests. Source slide 200: Lady beetles are beneficial Feeds on aphids and predators feeding on soft- spider mites bodied insects such as aphids.",
+    "explanation": "Many lady beetles are beneficial predators that feed on aphids and other soft-bodied plant pests. Their presence outdoors can help suppress these plant-feeding pests.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 200
@@ -362,7 +362,7 @@
   {
     "id": "C7-171",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "What leg arrangement distinguishes millipedes from centipedes in the presentation?",
+    "question": "How many pairs of legs does a typical millipede have on each apparent body segment?",
     "options": [
       "No legs in adults",
       "Two pairs per apparent body segment",
@@ -370,7 +370,7 @@
       "Eight legs per body segment"
     ],
     "answer": 1,
-    "explanation": "Two pairs per apparent body segment. Source slide 201: Millipede — 2 pairs of legs per body segment Millipedes have two pairs of legs per body segment and are primarily scavengers.",
+    "explanation": "Millipedes generally have two pairs of legs on each apparent trunk segment. Centipedes have one pair per segment, which is a useful distinction when identifying these many-legged arthropods.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 201
@@ -388,7 +388,7 @@
       "Millipede"
     ],
     "answer": 1,
-    "explanation": "Centipede. Source slide 202: Centipede — 1 pair of legs Centipedes have one pair of legs per per body segment segment and are active predators.",
+    "explanation": "Centipedes have one pair of legs per trunk segment and are active predators. Millipedes generally have two pairs per apparent segment and more often feed on decaying material.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 202
@@ -406,7 +406,7 @@
       "Wood-decay fungi"
     ],
     "answer": 1,
-    "explanation": "Predators of other small arthropods. Source slide 203: Beneficial — eat spiders Centipedes are predatory and help reduce populations of other arthropods.",
+    "explanation": "Centipedes prey on spiders and other small arthropods. Their predatory role can benefit ecosystems, although their presence indoors may still warrant inspection for moisture and prey.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 203
@@ -416,7 +416,7 @@
   {
     "id": "C7-174",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "Which set contains the three tick species highlighted in the presentation?",
+    "question": "Which set contains three tick species commonly encountered in Tennessee?",
     "options": [
       "Deer fly, house fly, and blow fly",
       "Brown dog, American dog, and lone star ticks",
@@ -424,7 +424,7 @@
       "German, Oriental, and smoky-brown ticks"
     ],
     "answer": 1,
-    "explanation": "Brown dog, American dog, and lone star ticks. Source slide 204: 3 most common ticks — brown dog, American dog, lone star • These are important tick species discussed in Tennessee pest management and public health programs.",
+    "explanation": "Brown dog ticks, American dog ticks, and lone star ticks are important species encountered in Tennessee. Identifying the tick helps guide appropriate public-health information and management decisions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 204
@@ -434,7 +434,7 @@
   {
     "id": "C7-175",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "A technician receives reports of ticks encountered by people in vegetation. Which species is emphasized in the presentation as a frequent human-biting concern?",
+    "question": "Which tick species is a frequent human-biting concern in Tennessee?",
     "options": [
       "Rice weevil",
       "Lone star tick",
@@ -442,7 +442,7 @@
       "Indianmeal moth"
     ],
     "answer": 1,
-    "explanation": "Lone star tick. Source slide 205: Most lone star ticks on humans unless pets involved • Lone star ticks are among the most common ticks encountered on humans in Tennessee, while pets may commonly carry other species such as brown dog ticks.",
+    "explanation": "Lone star ticks commonly bite people in Tennessee, while pets may also carry ticks such as brown dog ticks. Tick identification supports appropriate precautions and follow-up.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 205
@@ -460,7 +460,7 @@
       "Ten"
     ],
     "answer": 1,
-    "explanation": "Eight. Source slide 206: Ticks are arachnids rather than insects. Arachnids possess eight legs and two major body regions. 8 legs — not an insect — arachnids",
+    "explanation": "Ticks are arachnids, not insects. Arachnids have eight legs as adults and two main body regions, while insects have six legs and three main regions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 206
@@ -470,7 +470,7 @@
   {
     "id": "C7-177",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "Which grouping properly lists arthropods discussed in the course?",
+    "question": "Which groups are included among arthropods?",
     "options": [
       "Only fungi and bacteria",
       "Insects, arachnids, and crustaceans",
@@ -478,7 +478,7 @@
       "Only mammals and reptiles"
     ],
     "answer": 1,
-    "explanation": "Insects, arachnids, and crustaceans. Source slide 207: • Arthropods include insects, arachnids, Arthropods — insects crustaceans, and related invertebrates and arachnids with segmented bodies and jointed appendages.",
+    "explanation": "Arthropods are invertebrates with segmented bodies and jointed appendages. The group includes insects, arachnids, and crustaceans, which differ in body structure and number of legs.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 207
@@ -496,7 +496,7 @@
       "Its main body regions appear fused rather than as separate head, thorax, abdomen"
     ],
     "answer": 3,
-    "explanation": "Its main body regions appear fused rather than as separate head, thorax, abdomen. Source slide 208: Ticks have fused • Ticks possess fused body regions unlike insects which body regions have separate head, thorax, and abdomen regions.",
+    "explanation": "A tick’s main body regions appear fused rather than divided into a separate head, thorax, and abdomen as in insects. Adult ticks also have eight legs, supporting their classification as arachnids.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 208
@@ -514,7 +514,7 @@
       "Head, thorax, and abdomen"
     ],
     "answer": 3,
-    "explanation": "Head, thorax, and abdomen. Source slide 209: Head, thorax, abdomen Insects possess three major body regions: head, thorax, and abdomen.",
+    "explanation": "An insect’s body has three main regions: head, thorax, and abdomen. This body plan is one feature used to distinguish insects from other arthropods.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 209
@@ -532,7 +532,7 @@
       "Brown dog tick"
     ],
     "answer": 1,
-    "explanation": "Cat flea. Source slide 210: The cat flea is the most common flea species infesting homes and pets, including dogs. Most common flea — cat flea",
+    "explanation": "The cat flea is the flea species most commonly found on household pets and in homes, including homes with dogs. Identifying the likely flea helps focus inspection and control on hosts and resting areas.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 210
@@ -550,7 +550,7 @@
       "Feed the fleas indoors"
     ],
     "answer": 1,
-    "explanation": "Ensure host animals receive appropriate veterinary-directed flea control. Source slide 211: Treat pet Successful flea management requires treatment of the host animal.",
+    "explanation": "Fleas use host animals to feed and reproduce, while eggs and immature stages can be present in the home. Coordinate environmental management with veterinary-directed flea control for pets; do not apply pesticides to animals unless the product is specifically labeled for that use.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 211
@@ -568,7 +568,7 @@
       "It removes eggs and debris and may stimulate pupal emergence"
     ],
     "answer": 3,
-    "explanation": "It removes eggs and debris and may stimulate pupal emergence. Source slide 212: Vacuum the residence • Vacuuming removes flea eggs and stimulates pupae to emerge, improving treatment effectiveness.",
+    "explanation": "Vacuuming removes some flea eggs and debris and its vibration can stimulate adult fleas to emerge from cocoons. Those emerged adults may be more exposed to follow-up control.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 212
@@ -586,7 +586,7 @@
       "Vacuum motors create flea eggs"
     ],
     "answer": 0,
-    "explanation": "Vibration can stimulate adult flea emergence from cocoons. Source slide 213: Beater bar tells eggs to hatch Vibration from vacuum cleaners stimulates flea pupae to emerge from cocoons.",
+    "explanation": "Vibration from vacuuming can stimulate adult fleas to emerge from protective cocoons, making them more exposed to follow-up control. Vacuuming also removes some eggs and debris.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 213
@@ -604,7 +604,7 @@
       "Pet resting areas and nearby floor surfaces"
     ],
     "answer": 3,
-    "explanation": "Pet resting areas and nearby floor surfaces. Source slide 214: Treat pet resting areas Pet bedding and resting sites often contain flea eggs and larvae.",
+    "explanation": "Flea eggs can fall from pets into nearby resting areas, where eggs and larvae may accumulate. Inspect and clean pet bedding and adjacent floor surfaces as part of environmental management.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 214
@@ -622,7 +622,7 @@
       "It reduces shaded, humid harborages"
     ],
     "answer": 3,
-    "explanation": "It reduces shaded, humid harborages. Source slide 215: Mow grass Reducing shaded humid vegetation lowers flea and tick survival outdoors.",
+    "explanation": "Mowing excessive grass reduces shaded, humid harborage where fleas and ticks can persist. This habitat change complements other monitoring and control measures.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 215
@@ -640,7 +640,7 @@
       "Control overgrown weeds and vegetation"
     ],
     "answer": 3,
-    "explanation": "Control overgrown weeds and vegetation. Source slide 216: Keep weeds down Weed reduction decreases shaded moist habitats favorable to fleas and ticks.",
+    "explanation": "Controlling overgrown weeds and vegetation reduces damp, shaded habitat favored by fleas and ticks. Keep vegetation managed around areas where people and pets spend time.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 216
@@ -658,7 +658,7 @@
       "Fleas are susceptible to desiccation"
     ],
     "answer": 3,
-    "explanation": "Fleas are susceptible to desiccation. Source slide 217: Fleas easily desiccate Fleas require humid conditions and are susceptible to drying out.",
+    "explanation": "Fleas are susceptible to desiccation, or drying out, and do better in humid conditions. Moisture is therefore one environmental factor that can affect their survival.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 217
@@ -676,7 +676,7 @@
       "The product's labeled sites, targets, directions, and applicable rules"
     ],
     "answer": 3,
-    "explanation": "The product's labeled sites, targets, directions, and applicable rules. Source slide 218: Apply approved insecticide Outdoor treatments may be necessary outdoors if needed in severe infestations after environmental management steps.",
+    "explanation": "A pesticide may be used only at sites and against pests allowed by its label, following all directions and applicable rules. The product label determines whether a particular outdoor use is permitted.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 218
@@ -694,7 +694,7 @@
       "Interfering with development of immature life stages"
     ],
     "answer": 3,
-    "explanation": "Interfering with development of immature life stages. Source slide 219: Use IGR — stops growth development IGRs prevent immature insects from developing into reproductive adults.",
+    "explanation": "Insect growth regulators (IGRs) interfere with development of immature insects, preventing or disrupting their progression to reproductive adults. They do not necessarily kill every adult immediately.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 219
@@ -704,7 +704,7 @@
   {
     "id": "C7-190",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "Which mosquito-borne disease highlighted in the presentation is particularly associated with pediatric cases?",
+    "question": "Which mosquito-borne disease is particularly associated with pediatric cases?",
     "options": [
       "Lyme disease",
       "Rabies",
@@ -712,7 +712,7 @@
       "La Crosse encephalitis"
     ],
     "answer": 3,
-    "explanation": "La Crosse encephalitis. Source slide 220: LaCrosse Encephalitis affects children 16 and under La Crosse encephalitis is a mosquito- borne disease most commonly affecting children.",
+    "explanation": "La Crosse encephalitis is a mosquito-borne disease that particularly affects children. Reducing mosquito breeding opportunities and bites helps limit exposure to mosquito-borne pathogens.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 220
@@ -722,7 +722,7 @@
   {
     "id": "C7-191",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "What are 'no-see-ums' in the presentation?",
+    "question": "What are no-see-ums?",
     "options": [
       "Tiny biting midges",
       "Small carpenter bees",
@@ -730,7 +730,7 @@
       "Juvenile wood rats"
     ],
     "answer": 0,
-    "explanation": "Tiny biting midges. Source slide 221: No-see-ums / biting midges • No-see-ums are tiny biting flies also called biting midges.",
+    "explanation": "No-see-ums are tiny biting flies, also called biting midges. Their small size can make them difficult to see even when their bites are noticeable.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 221
@@ -748,7 +748,7 @@
       "Termite soldiers"
     ],
     "answer": 2,
-    "explanation": "Thrips. Source slide 222: Thrips will bite due to light colored skin and clothing. Clovers and onions are environmental associations for identifying thrips biting.",
+    "explanation": "Thrips are tiny plant-associated insects that can sometimes irritate or bite people. When bites are reported near vegetation, inspect nearby plants and site conditions rather than assuming the source is an indoor infestation.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 222
@@ -766,7 +766,7 @@
       "Assume every mark is bed bugs"
     ],
     "answer": 1,
-    "explanation": "Collect actual specimens and examine exposure context, not bite placement alone. Source slide 223: Bite at waist • Certain biting flies commonly attack exposed skin areas near tight clothing or waistlines.",
+    "explanation": "Collect actual specimens and examine exposure context, not bite placement alone. Certain biting flies commonly attack exposed skin areas near tight clothing or waistlines.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 223
@@ -776,7 +776,7 @@
   {
     "id": "C7-194",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "What school IPM action is consistent with the slides?",
+    "question": "What is appropriate school IPM practice when pesticide application is not warranted?",
     "options": [
       "Ignore all student exposure concerns",
       "Automatic routine spraying without evidence",
@@ -784,7 +784,7 @@
       "Treat documented pest problems only when justified, favoring prevention"
     ],
     "answer": 3,
-    "explanation": "Treat documented pest problems only when justified, favoring prevention. Source slide 224: No routine pesticide application in School IPM • School IPM discourages routine or scheduled pesticide applications unless justified by monitoring and necessity.",
+    "explanation": "Treat documented pest problems only when justified, favoring prevention. School IPM discourages routine or scheduled pesticide applications unless justified by monitoring and necessity.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 224
@@ -802,7 +802,7 @@
       "At night"
     ],
     "answer": 3,
-    "explanation": "At night. Source slide 225: Roaches most active at night • Cockroaches are primarily nocturnal and are most active during nighttime hours.",
+    "explanation": "At night. Cockroaches are primarily nocturnal and are most active during nighttime hours.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 225
@@ -820,7 +820,7 @@
       "Egg, aquatic larva, pupa, adult"
     ],
     "answer": 2,
-    "explanation": "Egg, nymph, adult. Source slide 226: Cockroach life cycle • Cockroaches undergo gradual metamorphosis consisting of egg, nymph, and adult stages.",
+    "explanation": "Egg, nymph, adult. Cockroaches undergo gradual metamorphosis consisting of egg, nymph, and adult stages.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 226
@@ -830,7 +830,7 @@
   {
     "id": "C7-197",
     "topic": "IPM, pesticide formulations, pests and safety",
-    "question": "How does development of larger cockroach species compare with German cockroaches in the presentation?",
+    "question": "How does development of larger cockroach species compare with German cockroaches?",
     "options": [
       "German cockroaches always take ten years",
       "Large species often take substantially longer to develop",
@@ -838,7 +838,7 @@
       "All cockroach species develop at identical rates"
     ],
     "answer": 1,
-    "explanation": "Large species often take substantially longer to develop. Source slide 227: American, Oriental, Smokybrown — require about 1 year (AOS) • Larger cockroach species generally develop more slowly and may require approximately one year to reach adulthood.",
+    "explanation": "Large species often take substantially longer to develop. Larger cockroach species generally develop more slowly and may require approximately one year to reach adulthood.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 227
@@ -856,7 +856,7 @@
       "Adults cannot reproduce indoors"
     ],
     "answer": 2,
-    "explanation": "Rapid reproduction and favorable indoor conditions. Source slide 228: German cockroaches — 6 month reproduction rate — fast reproduction • German cockroaches reproduce rapidly and are considered one of the most difficult structural pests to control.",
+    "explanation": "Rapid reproduction and favorable indoor conditions. German cockroaches reproduce rapidly and are considered one of the most difficult structural pests to control.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 228
@@ -874,7 +874,7 @@
       "Oriental cockroach exclusively"
     ],
     "answer": 1,
-    "explanation": "Brown-banded cockroach. Source slide 229: brown-banded cockroach does not Brown-banded cockroaches require close moisture source tolerate drier environments than German cockroaches.",
+    "explanation": "Brown-banded cockroaches tolerate drier conditions than German cockroaches and may occur in warm, dry areas, including near electronics. Their habitat differs from species more strongly associated with moisture.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 229
@@ -892,7 +892,7 @@
       "Citronella ant exclusively"
     ],
     "answer": 2,
-    "explanation": "Odorous house ant. Source slide 230: Odorous house ant — rotten coconut / banana odor when crushed • Odorous house ants release a strong rotten coconut or banana-like odor when crushed.",
+    "explanation": "Odorous house ant. Odorous house ants release a strong rotten coconut or banana-like odor when crushed.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 230

@@ -10,7 +10,7 @@
       "Egg, tadpole, adult"
     ],
     "answer": 2,
-    "explanation": "Social wasps undergo complete metamorphosis.",
+    "explanation": "Social wasps develop by complete metamorphosis: egg, larva, pupa, then adult. The larval and pupal stages look different from the winged adult.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 66
@@ -28,7 +28,7 @@
       "Norway rats"
     ],
     "answer": 2,
-    "explanation": "Paper wasps commonly construct exposed combs under eaves and overhangs.",
+    "explanation": "Paper wasps build exposed, open-comb nests, often beneath eaves or other overhangs. A visible uncovered comb in that location is a useful identification clue.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 67
@@ -46,7 +46,7 @@
       "Yellow jacket"
     ],
     "answer": 3,
-    "explanation": "Yellow jackets often nest underground and may aggressively defend nests.",
+    "explanation": "Yellow jackets commonly nest in the ground and scavenge for food. They can defend a nest aggressively, so locate the nest and plan safe, label-compliant control rather than disturbing it.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 68
@@ -64,7 +64,7 @@
       "House mouse"
     ],
     "answer": 1,
-    "explanation": "The slides note European hornets may be active at lights after dark.",
+    "explanation": "European hornets are large hornets that may forage around exterior lights after dark. Their size and nighttime activity can help distinguish them from smaller day-active wasps.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 68
@@ -82,7 +82,7 @@
       "Handle the nest without protective clothing"
     ],
     "answer": 2,
-    "explanation": "The presentation stresses locating nests, protective clothing, and lower-activity timing.",
+    "explanation": "Before treating a wasp nest, identify its location, select the required protective equipment, and plan the work for a time of lower wasp activity. Follow the pesticide label and keep people away from the treatment area.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 69
@@ -100,7 +100,7 @@
       "Elbowed antennae and a narrow waist"
     ],
     "answer": 2,
-    "explanation": "Female black widows are commonly identified by a red hourglass marking on the underside.",
+    "explanation": "An adult female black widow is typically glossy and dark, with a red hourglass marking on the underside of the abdomen. Use several identifying traits rather than relying on color alone.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 70
@@ -118,7 +118,7 @@
       "Neurotoxin"
     ],
     "answer": 3,
-    "explanation": "The slides describe black widow venom as acting on the nervous system.",
+    "explanation": "Black widow venom is neurotoxic, meaning it affects the nervous system. A suspected bite needs prompt medical advice rather than a pest-control diagnosis.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 71
@@ -136,7 +136,7 @@
       "Three pairs of wings"
     ],
     "answer": 1,
-    "explanation": "The slides mention the violin-like mark, but accurate identification should use multiple characteristics.",
+    "explanation": "A violin-shaped marking on the cephalothorax can be one clue when screening for a brown recluse, but markings vary and can be misread. Confirm identification using multiple anatomical features.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 72
@@ -154,7 +154,7 @@
       "Uniformly no skin reaction"
     ],
     "answer": 2,
-    "explanation": "Some bites may cause tissue damage; severity varies and medical evaluation is appropriate.",
+    "explanation": "Some brown recluse bites can cause localized tissue injury, including necrosis, but outcomes vary. A suspected bite or worsening skin injury should be assessed by a medical professional.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 73
@@ -172,7 +172,7 @@
       "Move stored boxes with bare hands without checking"
     ],
     "answer": 1,
-    "explanation": "Sanitation, clutter reduction, monitoring and cautious handling reduce contact risk.",
+    "explanation": "Reducing clutter removes spider hiding places and makes stored items easier to inspect. Check boxes, clothing, and other stored materials carefully before handling them.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 74
@@ -182,7 +182,7 @@
   {
     "id": "C7-061",
     "topic": "Wasps and spiders",
-    "question": "Which approach best matches the presentation’s spider-management strategy?",
+    "question": "Which approach is part of a sound spider-management strategy?",
     "options": [
       "Use pesticide alone without inspecting",
       "Apply the same insecticide rate to every surface",
@@ -190,7 +190,7 @@
       "Ignore exterior overhangs and clutter"
     ],
     "answer": 2,
-    "explanation": "Habitat modification, sanitation, monitoring and appropriate treatment work together.",
+    "explanation": "Spider management starts with inspection, removing webs and harborage, and monitoring for activity. Use pesticide only when findings justify it, and choose a labeled treatment suited to the site and pest.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 75
@@ -208,7 +208,7 @@
       "Mosquitoes always infest stored grain"
     ],
     "answer": 0,
-    "explanation": "The training identifies mosquitoes as vectors of pathogens.",
+    "explanation": "Some mosquito species transmit pathogens that cause human or animal disease. Their public-health importance depends on the species and pathogens present, not simply on the nuisance of biting.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 76
@@ -226,7 +226,7 @@
       "To feed the larvae directly"
     ],
     "answer": 2,
-    "explanation": "The slides connect female blood-feeding to egg production; males primarily feed on nectar.",
+    "explanation": "Many female mosquitoes take blood meals to obtain nutrients needed to produce eggs. Males generally feed on plant sugars such as nectar rather than blood.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 77
@@ -244,7 +244,7 @@
       "Inside wool textiles"
     ],
     "answer": 1,
-    "explanation": "Aquatic immature stages make water-site management essential.",
+    "explanation": "Mosquito larvae and pupae develop in water. Finding and managing suitable water sites can interrupt development before adults emerge.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 78
@@ -262,7 +262,7 @@
       "Norway rat"
     ],
     "answer": 0,
-    "explanation": "The slides describe Aedes albopictus as a daytime biter associated with containers.",
+    "explanation": "The Asian tiger mosquito (Aedes albopictus) is an aggressive daytime biter that can breed in small water-holding containers. Removing standing water in containers helps reduce breeding sites.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 79
@@ -280,7 +280,7 @@
       "A long-handled white dipper"
     ],
     "answer": 3,
-    "explanation": "Larval surveillance may use a long-handled dipper.",
+    "explanation": "A long-handled white dipper lets an inspector collect a water sample and check for mosquito larvae. Sampling helps determine whether a water site is producing mosquitoes.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 81
@@ -298,7 +298,7 @@
       "Adult mosquitoes cannot fly into treated areas"
     ],
     "answer": 0,
-    "explanation": "The presentation notes chemical control is temporary without source reduction.",
+    "explanation": "Adult mosquito spraying can reduce adults present at the time, but untreated water-breeding sites can produce more adults later. Source reduction and appropriate immature-stage control address the source of new mosquitoes.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 82
@@ -316,7 +316,7 @@
       "Only overwintering adult females"
     ],
     "answer": 1,
-    "explanation": "Larvicides are used against aquatic immatures before emergence.",
+    "explanation": "Mosquito larvicides target immature mosquitoes—larvae and, when allowed by the product, pupae—in water before they emerge as biting adults. Use them only at labeled sites and according to label directions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 83
@@ -334,7 +334,7 @@
       "Correcting drainage"
     ],
     "answer": 1,
-    "explanation": "The slides define adulticides by their target: adult mosquitoes.",
+    "explanation": "An adulticide is used to kill adult mosquitoes. It does not remove breeding habitat, so it may need to be part of a broader management plan.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 84
@@ -352,7 +352,7 @@
       "Sterilize drinking water"
     ],
     "answer": 0,
-    "explanation": "Repellents discourage biting, rather than eliminating breeding habitat.",
+    "explanation": "A repellent helps reduce mosquito bites on people or animals; it does not kill mosquitoes or eliminate breeding sites. Use only products labeled for the intended person, animal, and use.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 85
@@ -370,7 +370,7 @@
       "Leave water in discarded tires"
     ],
     "answer": 0,
-    "explanation": "Source reduction removes habitat needed for immature development.",
+    "explanation": "Emptying and removing containers that hold standing water eliminates potential mosquito breeding sites. Regularly check items such as buckets, tires, and plant saucers after rain.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 86
@@ -388,7 +388,7 @@
       "Prescribe a medical diagnosis"
     ],
     "answer": 2,
-    "explanation": "Not every itching complaint is evidence of pests; inspect carefully.",
+    "explanation": "Itching alone does not establish that a pest is present. Inspect for objective signs and consider other possible causes before recommending pest treatment.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 88
@@ -406,7 +406,7 @@
       "Only stored-product beetles"
     ],
     "answer": 1,
-    "explanation": "The slides distinguish pest and non-pest causes of irritation.",
+    "explanation": "Environmental conditions and chemical exposures can irritate skin even when insects or mites are not involved. Do not assume that a skin symptom proves pest activity.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 89
@@ -424,7 +424,7 @@
       "Label the customer with a medical diagnosis"
     ],
     "answer": 0,
-    "explanation": "Evidence-based identification is required; applicators should stay within professional scope.",
+    "explanation": "Record what was inspected and what evidence was found. Recommend pesticide treatment only when an identifiable pest and site conditions support it, and refer health questions outside the technician’s role to an appropriate professional.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 90
@@ -442,7 +442,7 @@
       "Avoid validating an unverified infestation and suggest medical evaluation as appropriate"
     ],
     "answer": 3,
-    "explanation": "The slides recommend not reinforcing unsupported infestation beliefs and seeking appropriate medical input.",
+    "explanation": "Respond respectfully, document objective findings, and do not confirm an infestation without evidence. If symptoms continue, suggest the person consult a qualified medical professional.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 91
@@ -460,7 +460,7 @@
       "Glass panes"
     ],
     "answer": 0,
-    "explanation": "Fabric pests may use wool, hair, feathers and other animal-based materials as food.",
+    "explanation": "Some fabric pests feed on animal-derived fibers such as wool, hair, and feathers. These materials should be checked when damage is found in stored textiles.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 92
@@ -478,7 +478,7 @@
       "Flying adult during mating"
     ],
     "answer": 1,
-    "explanation": "Carpet beetle larvae feed on animal-derived materials.",
+    "explanation": "Carpet beetle larvae, not the flower-feeding adults, usually damage animal-derived fabrics. Finding larvae or their shed skins near damaged materials can help identify the source.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 93
@@ -496,7 +496,7 @@
       "On electrical wiring"
     ],
     "answer": 2,
-    "explanation": "Adult carpet beetles often visit flowers, unlike fabric-feeding larvae.",
+    "explanation": "Adult carpet beetles commonly visit flowers outdoors to feed on pollen. Their larvae are the stage more often associated with damage to animal-based fabrics indoors.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 95
@@ -514,7 +514,7 @@
       "A termite mud tube"
     ],
     "answer": 2,
-    "explanation": "The slides contrast portable larval cases with webbing.",
+    "explanation": "Casemaking clothes moth larvae carry a portable silk case as they move and feed. Webbing clothes moth larvae instead leave silk webbing on the material they infest.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 97
@@ -532,7 +532,7 @@
       "Broadcast spray all clothing irrespective of label"
     ],
     "answer": 1,
-    "explanation": "Inspection and prevention are emphasized before considering any lawful treatment.",
+    "explanation": "First inspect damaged items and nearby storage areas to identify the pest and extent of activity. Cleaning, careful storage, and protection of vulnerable materials can prevent further damage.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 98
@@ -550,7 +550,7 @@
       "Keep infested lots beside clean stock"
     ],
     "answer": 1,
-    "explanation": "The presentation stresses sanitation, stock rotation, exclusion, inspection and monitoring.",
+    "explanation": "Stored-product pest IPM combines inspection of incoming and stored goods with sanitation, stock rotation, exclusion, and monitoring. These steps help locate the source and prevent reinfestation.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 99
@@ -568,7 +568,7 @@
       "Replace all sanitation work"
     ],
     "answer": 0,
-    "explanation": "Pheromone traps are monitoring tools.",
+    "explanation": "A pheromone trap attracts and detects particular susceptible insects, helping monitor their presence and activity over time. It is a monitoring tool and does not by itself prove or eliminate an infestation.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 100
@@ -586,7 +586,7 @@
       "Add humidifiers to wet storage"
     ],
     "answer": 1,
-    "explanation": "The slide associates mites and psocids with moisture and notes lower humidity reduces survival.",
+    "explanation": "Moisture-associated mites and psocids do better in damp conditions. Correcting leaks and reducing excessive humidity makes the environment less favorable to them.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 101
@@ -604,7 +604,7 @@
       "Carpenter bees"
     ],
     "answer": 1,
-    "explanation": "Flour beetles are important pests of processed grain foods.",
+    "explanation": "Red and confused flour beetles infest processed grain products such as flour. Inspect infested food and nearby stored products to locate the source and prevent spread.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 102
@@ -614,7 +614,7 @@
   {
     "id": "C7-085",
     "topic": "Stored product pests",
-    "question": "Which flour beetle is noted in the presentation as flightless?",
+    "question": "Which flour beetle is generally flightless?",
     "options": [
       "Neither species has wing covers",
       "Both fly equally well",
@@ -622,7 +622,7 @@
       "Red flour beetle"
     ],
     "answer": 2,
-    "explanation": "The slides distinguish flightless confused flour beetles from red flour beetles that can fly.",
+    "explanation": "The confused flour beetle is generally flightless, while the red flour beetle can fly. Flight ability is one feature that can help distinguish these similar stored-product beetles.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 103
@@ -640,7 +640,7 @@
       "Tail fur"
     ],
     "answer": 0,
-    "explanation": "The slides emphasize head and thorax structure for identification.",
+    "explanation": "Sawtoothed and merchant grain beetles are distinguished by examining structures of the head and thorax. Careful inspection of those features is more reliable than identifying them by location alone.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 104
@@ -658,7 +658,7 @@
       "Rice weevil"
     ],
     "answer": 3,
-    "explanation": "The rice weevil is described as spotted and capable of flight.",
+    "explanation": "The rice weevil has a distinctive snout and commonly has four pale spots on its wing covers; it can fly. These features distinguish it from similar stored-grain beetles.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 105
@@ -676,7 +676,7 @@
       "Paper wasp"
     ],
     "answer": 2,
-    "explanation": "Indianmeal moths infest packaged dry goods including grains, nuts and pet foods.",
+    "explanation": "Indianmeal moth larvae can infest dry goods such as nuts and cereals and may leave silk webbing in or around packages. Inspect nearby stored foods to find the infestation source.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 106
@@ -694,7 +694,7 @@
       "A pest that enters buildings seasonally or accidentally and typically does not reproduce inside"
     ],
     "answer": 3,
-    "explanation": "The slides define occasional invaders by transient entry into buildings.",
+    "explanation": "An occasional invader enters a building by chance or seasonally and typically does not establish a reproducing indoor population. Exclusion and site conditions are often more relevant than indoor pesticide use.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 107
@@ -712,7 +712,7 @@
       "Make exterior entrances more accessible"
     ],
     "answer": 0,
-    "explanation": "Sanitation and exclusion are central to management.",
+    "explanation": "Sealing entry points reduces accidental pest entry, while good sanitation removes food and harborage that can attract invaders. These preventive steps address common routes and attractants.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 108
@@ -730,7 +730,7 @@
       "Moisture and mold associated with building materials"
     ],
     "answer": 3,
-    "explanation": "The slides connect foreign grain beetles to damp lumber, plaster and mold.",
+    "explanation": "Foreign grain beetles can be associated with damp building materials and mold in new construction. Investigate moisture and mold, then correct the underlying building condition where possible.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 109
@@ -748,7 +748,7 @@
       "Dark, damp basements or crawlspaces"
     ],
     "answer": 3,
-    "explanation": "Camel crickets favor damp sheltered locations.",
+    "explanation": "Camel crickets favor dark, damp, sheltered spaces such as basements and crawlspaces. Reducing excess moisture and entry routes can make those sites less suitable.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 110
@@ -766,7 +766,7 @@
       "Rice weevils"
     ],
     "answer": 0,
-    "explanation": "Springtails are moisture-associated nuisance pests.",
+    "explanation": "Springtails are tiny moisture-associated arthropods that can gather and jump near wet foundations. Correcting excess moisture is usually central to reducing their numbers.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 111
@@ -784,7 +784,7 @@
       "Spiders"
     ],
     "answer": 0,
-    "explanation": "They are terrestrial crustaceans that need moisture.",
+    "explanation": "Sowbugs and pillbugs are terrestrial crustaceans, not insects. They need moist conditions to survive, so persistent indoor sightings often point to dampness nearby.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 112
@@ -802,7 +802,7 @@
       "Two pairs of legs"
     ],
     "answer": 3,
-    "explanation": "Millipedes generally have two leg pairs per trunk diplosegment.",
+    "explanation": "Most millipedes have two pairs of legs on each apparent trunk segment, a feature that helps distinguish them from centipedes, which have one pair per segment.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 113
@@ -812,7 +812,7 @@
   {
     "id": "C7-096",
     "topic": "Occasional invaders",
-    "question": "Which feature distinguishes centipedes from millipedes in the presentation?",
+    "question": "Which feature distinguishes centipedes from millipedes?",
     "options": [
       "Two pairs of wings per segment",
       "One pair of legs per body segment and predatory habits",
@@ -820,7 +820,7 @@
       "Feeding only on pollen"
     ],
     "answer": 1,
-    "explanation": "Centipedes generally have one pair of legs per trunk segment and prey on other animals.",
+    "explanation": "Centipedes have one pair of legs per trunk segment and are predators of other small animals. Millipedes generally have two pairs per apparent segment and more often feed on decaying material.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 114
@@ -838,7 +838,7 @@
       "Roof rat"
     ],
     "answer": 0,
-    "explanation": "Norway rats are associated with burrows, lower structural levels and blunt droppings.",
+    "explanation": "Norway rats commonly burrow and are often found at ground level or on lower floors. Their droppings tend to have blunt ends, which can help distinguish them from other rodents.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 117
@@ -856,7 +856,7 @@
       "A complete metamorphosis stage"
     ],
     "answer": 0,
-    "explanation": "The training notes Norway rats often avoid unfamiliar objects.",
+    "explanation": "Norway rats may show neophobia, or wariness of unfamiliar objects, and can initially avoid a newly placed trap. Careful placement and monitoring help determine whether a trap location is effective.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 118
@@ -874,7 +874,7 @@
       "Roof rat"
     ],
     "answer": 3,
-    "explanation": "Roof rats are agile climbers associated with upper building areas.",
+    "explanation": "Roof rats are agile climbers and often travel or nest in elevated areas such as rafters and utility lines. Their use of high routes contrasts with the Norway rat’s stronger association with ground-level areas.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 119
@@ -892,7 +892,7 @@
       "Rapid indoor reproduction and access through small openings"
     ],
     "answer": 3,
-    "explanation": "The slides emphasize rapid reproduction and small entry openings.",
+    "explanation": "House mice reproduce quickly, and their small size lets them enter through very narrow openings. Effective management combines exclusion of entry gaps with sanitation, monitoring, and properly placed control devices.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 120
