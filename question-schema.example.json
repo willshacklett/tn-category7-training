@@ -1,0 +1,20 @@
+{
+  "id": "TN-C07-0001",
+  "status": "draft",
+  "topic": "Integrated Pest Management",
+  "question": "Example placeholder: replace before release",
+  "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_index": null,
+  "explanation": "",
+  "source": {
+    "document": "TN C7 Powerpoint Presenation.pdf",
+    "slide": null
+  },
+  "verified_by": null,
+  "verified_at": null
+}
