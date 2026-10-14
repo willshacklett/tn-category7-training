@@ -1,0 +1,902 @@
+[
+  {
+    "id": "C7-251",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which natural processes can break down pesticide residues in the environment?",
+    "options": [
+      "Only an applicator's memory",
+      "Sunlight, water reactions, and microorganisms",
+      "Only rodent activity",
+      "Only package color fading"
+    ],
+    "answer": 1,
+    "explanation": "Pesticides can degrade through sunlight, hydrolysis, microbial action, oxidation, and other environmental processes.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 363
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-252",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is a preharvest interval (PHI)?",
+    "options": [
+      "Time between hiring technicians",
+      "A rodent trap-check interval",
+      "A waiting period before product purchase",
+      "The required time between application and harvest when specified"
+    ],
+    "answer": 3,
+    "explanation": "Preharvest interval (PHI) PHI is the required time between pesticide application and harvest.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 365
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-253",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why can the Endangered Species Act affect pesticide applications?",
+    "options": [
+      "It applies solely to buildings",
+      "Some applications may threaten protected species or habitat",
+      "It sets only pest-control wages",
+      "It overrides every pesticide label"
+    ],
+    "answer": 1,
+    "explanation": "Endangered Species Act (ESA): Prohibits actions that could harm, kill, or degrade the habitat of federally threatened or endangered species. Under Section 7 of the ESA, the EPA must ensure that any pesticide it registers does not jeopardize these listed species, often leading to geographically specific use limitations.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 368
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-254",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "How should a technician determine pesticide record-retention duties?",
+    "options": [
+      "Keep only customer signatures",
+      "Check current federal and Tennessee requirements and keep the required records",
+      "Delete all records after service",
+      "Rely on an unverified universal period"
+    ],
+    "answer": 1,
+    "explanation": "Applicators must retain required pesticide records for the required retention period; notes identify 2 years.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 369
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-255",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "When is the Worker Protection Standard REI most relevant?",
+    "options": [
+      "For covered agricultural pesticide uses and workers",
+      "For every household fly trap",
+      "Only when an insect is captured",
+      "Only for office invoicing"
+    ],
+    "answer": 0,
+    "explanation": "The REI on a label may require workers to stay out for a specified period, such as 4 hours.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 374
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-256",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A structural-use label says people may return after the spray dries. When is reentry permissible?",
+    "options": [
+      "Whenever the technician leaves",
+      "Immediately regardless of conditions",
+      "Only after a month",
+      "After the label's drying and other reentry conditions are satisfied"
+    ],
+    "answer": 3,
+    "explanation": "For structural settings, labels often allow re-entry after sprays have dried and dusts have settled.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 375
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-257",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Where are instructions for empty pesticide containers typically found?",
+    "options": [
+      "The store shelf label",
+      "The customer's warranty",
+      "The truck registration",
+      "Storage and Disposal section of the label"
+    ],
+    "answer": 3,
+    "explanation": "Labels give legal instructions for storage, container handling, and disposal.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 377
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-258",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is the purpose of triple rinsing a compatible pesticide container when directed?",
+    "options": [
+      "Increase the active-ingredient concentration",
+      "Turn restricted products into general-use products",
+      "Reduce residues before approved handling or disposal",
+      "Make it safe to hold drinking water"
+    ],
+    "answer": 2,
+    "explanation": "Triple Rinse Triple rinsing helps remove pesticide residues from containers before disposal or recycling.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 378
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-259",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Where are application rates, dilution instructions, and use limitations listed?",
+    "options": [
+      "Only the product's QR graphic",
+      "Only the retailer invoice",
+      "Directions for Use",
+      "Only the trade name"
+    ],
+    "answer": 2,
+    "explanation": "Directions for use - mix, apply, rates, drift management The directions for use section provides application rates, mixing instructions, sites, pests, and restrictions.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 379
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-260",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What does a Safety Data Sheet primarily communicate?",
+    "options": [
+      "Customer appointment times",
+      "Hazard, first-aid, and safe handling information",
+      "An automatic authorization for all uses",
+      "Which pests always infest a house"
+    ],
+    "answer": 1,
+    "explanation": "Safety Data Sheets list sections provide hazard, exposure, first aid, storage, and emergency response information.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 381
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-261",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What function may an inert or other non-active formulation ingredient serve?",
+    "options": [
+      "Replace all PPE",
+      "Authorize unlisted application sites",
+      "Help stabilize or deliver the pesticide formulation",
+      "Always serve as the only toxicant"
+    ],
+    "answer": 2,
+    "explanation": "Inert ingredients are non-active components that help formulation performance, stability, or handling.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 384
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-262",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A pesticide damages an ornamental plant's foliage. What is this type of injury called?",
+    "options": [
+      "Trophallaxis",
+      "Phytotoxicity",
+      "Neophobia",
+      "Metamorphosis"
+    ],
+    "answer": 1,
+    "explanation": "Phytotoxicity. Phytotoxicity - plant damage Phytotoxicity is pesticide-caused plant injury.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 385
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-263",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What may an adjuvant change in a spray mixture?",
+    "options": [
+      "Wetting, spreading, sticking, or other mixture properties",
+      "The laws governing pesticide use",
+      "The pest's scientific order",
+      "The state's certification categories"
+    ],
+    "answer": 0,
+    "explanation": "Adjuvants improve mixing, spreading, sticking, penetration, or other product performance.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 386
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-264",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What distinguishes a wettable powder from a soluble powder in water?",
+    "options": [
+      "Both are only granular baits",
+      "Both become gases immediately",
+      "WP always forms a true solution",
+      "Wettable powder remains suspended rather than fully dissolving"
+    ],
+    "answer": 3,
+    "explanation": "Wettable powders are dry formulations mixed with water; they suspend rather than dissolve.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 388
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-265",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "An EC formulation turns milky when diluted with water. What explains that appearance?",
+    "options": [
+      "A chemical fire",
+      "Formation of dry dust",
+      "An emulsion of oil-based droplets in water",
+      "Complete precipitation of every ingredient"
+    ],
+    "answer": 2,
+    "explanation": "EC formulations are oil-based liquids that form a milky emulsion when mixed with water.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 389
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-266",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "How does a flowable formulation differ from a true solution?",
+    "options": [
+      "A flowable contains suspended particles; a solution has dissolved components",
+      "They are identical by definition",
+      "Flowables never need mixing",
+      "Solutions contain only air"
+    ],
+    "answer": 0,
+    "explanation": "Flowables are suspensions; solutions dissolve or are already dissolved in the carrier.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 390
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-267",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which mixture type has particles suspended rather than dissolved?",
+    "options": [
+      "True solution",
+      "Pure distilled water",
+      "A solid pellet",
+      "Suspension"
+    ],
+    "answer": 3,
+    "explanation": "These describe how the active ingredient is carried or dispersed in the product mixture.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 393
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-268",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why do emulsifiable concentrates require careful handling around some plants and materials?",
+    "options": [
+      "They always contain no pesticide",
+      "They never require PPE",
+      "Solvents and formulation properties may cause plant injury or affect surfaces",
+      "They cannot penetrate any material"
+    ],
+    "answer": 2,
+    "explanation": "ECs often leave little visible residue but can be phytotoxic and may pass through skin more readily due to solvents.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 395
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-269",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which mixture remains uniform because ingredients are dissolved at the molecular level?",
+    "options": [
+      "Dry granule",
+      "Wettable-powder suspension",
+      "Solution",
+      "Tracking powder"
+    ],
+    "answer": 2,
+    "explanation": "Solution. Solutions dissolve completely and remain uniformly mixed.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 396
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-270",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What does RTU indicate on a pesticide product?",
+    "options": [
+      "Ready to Use",
+      "Registered Tank Uniformity",
+      "Required Treatment Upgrade",
+      "Restricted Termite Unit"
+    ],
+    "answer": 0,
+    "explanation": "(RTU) Ready-To-Use RTU products are sold at use dilution and require no mixing.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 397
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-271",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What distinguishes a ULV application?",
+    "options": [
+      "Always a large-volume drench",
+      "An untreated monitoring technique",
+      "Very low carrier volume delivered through specialized equipment",
+      "Only a dry granular application"
+    ],
+    "answer": 2,
+    "explanation": "ULV formulations are applied in very small volumes and may have high drift potential if not managed properly.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 398
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-272",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What special concern accompanies pressurized aerosol applications?",
+    "options": [
+      "Fine particles or droplets may disperse beyond the target if misused",
+      "Aerosols never drift",
+      "Every aerosol is allowed in food areas",
+      "Aerosols contain no active ingredients"
+    ],
+    "answer": 0,
+    "explanation": "(A) Aerosols - self-contained units; high drift potential Aerosols are pressurized self-contained formulations; fine droplets can drift or move through air.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 400
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-273",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A flowable concentrate contains solid active ingredient dispersed in a liquid. What does that mean for handling?",
+    "options": [
+      "It must be swallowed to activate",
+      "Follow label agitation and mixing instructions to maintain consistency",
+      "It can never separate",
+      "It becomes a true gas"
+    ],
+    "answer": 1,
+    "explanation": "Flowables are solid active ingredients suspended in liquid, similar to pre- mixed wettable powder slurry.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 401
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-274",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "An ant bait remains untouched because food scraps are available nearby. What management change may help?",
+    "options": [
+      "Move bait directly into drinking water",
+      "Add more scraps next to it",
+      "Spray repellents onto all bait placements",
+      "Reduce competing food sources while maintaining label-compliant bait placement"
+    ],
+    "answer": 3,
+    "explanation": "Baits combine food attractants with pesticide and reduce broadcast exposure, but depend on pest feeding.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 402
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-275",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which formulations are often designed for targeted cracks and small placements?",
+    "options": [
+      "Pastes and gels",
+      "Only aerial ULV sprays",
+      "Only fumigant gases",
+      "Only large broadcast granules"
+    ],
+    "answer": 0,
+    "explanation": "Pastes and gels are targeted formulations often used in cracks, crevices, and bait placements.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 403
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-276",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which dry formulation is generally less prone to airborne drift than very fine dust?",
+    "options": [
+      "Granules",
+      "Aerosol mist",
+      "Fumigant gas",
+      "Ultrafine dust"
+    ],
+    "answer": 0,
+    "explanation": "Dusts and granules are dry formulations; granules reduce drift compared with dusts.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 404
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-277",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which dry formulations are designed to be dispersed in water before use?",
+    "options": [
+      "Wettable powders and water-dispersible granules",
+      "Only aerosol cans",
+      "Only ready-to-use sprays",
+      "Only rodent snap traps"
+    ],
+    "answer": 0,
+    "explanation": "These are dry products that are mixed with water before application.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 406
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-278",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "How does a soluble powder differ from a wettable powder?",
+    "options": [
+      "It is a pressurized gas",
+      "It dissolves in water rather than remaining suspended",
+      "It always stays as solid grains",
+      "It requires no label"
+    ],
+    "answer": 1,
+    "explanation": "It dissolves in water rather than remaining suspended. Soluble powders dissolve fully rather than remaining suspended.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 409
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-279",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is a microencapsulated pesticide formulation?",
+    "options": [
+      "Pesticide mixed with gravel",
+      "A liquid with no formulation materials",
+      "Active ingredient enclosed in small protective capsules",
+      "Only a raw active ingredient crystal"
+    ],
+    "answer": 2,
+    "explanation": "Microencapsulated formulations surround active ingredient droplets with a coating that slows release.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 411
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-280",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is one handler-exposure benefit of water-soluble packets when used correctly?",
+    "options": [
+      "Packets remove first-aid requirements",
+      "Packets authorize bare-hand handling",
+      "The product can be added without opening the inner packet",
+      "Packets make every tank mix compatible"
+    ],
+    "answer": 2,
+    "explanation": "Water soluble packets reduce handler exposure by allowing sealed packets to dissolve in the tank.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 412
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-281",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why do fumigants need unusually strict controls?",
+    "options": [
+      "They contain only water",
+      "They are harmless when odorless",
+      "Their gases can spread through enclosed spaces and create serious inhalation hazards",
+      "They cannot enter voids"
+    ],
+    "answer": 2,
+    "explanation": "Fumigants are gases or gas-forming pesticides that penetrate spaces and require special precautions.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 414
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-282",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A technician plans a tank mix that looks cloudy. What should be checked before proceeding?",
+    "options": [
+      "Only the sprayer color",
+      "Only the batch discount",
+      "Only the customer's preference",
+      "Label permissions and physical compatibility, potentially with a jar test"
+    ],
+    "answer": 3,
+    "explanation": "Tank mixing is legal if labels allow it and products are compatible; a jar test checks physical compatibility.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 415
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-283",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "How can suspended solid formulations affect spray equipment?",
+    "options": [
+      "They never require maintenance",
+      "They always clean clogged lines",
+      "They may abrade pumps, nozzles, or screens",
+      "They prevent all equipment wear"
+    ],
+    "answer": 2,
+    "explanation": "Suspended solid formulations can be abrasive and may wear pumps, nozzles, or screens.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 417
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-284",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is leaching?",
+    "options": [
+      "Loss of customer records",
+      "Insect movement along walls",
+      "Downward movement of pesticide through soil with water",
+      "Movement only through air"
+    ],
+    "answer": 2,
+    "explanation": "Leaching is movement of pesticide downward through soil with water.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 418
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-285",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which property describes a pesticide that stays active in the environment for a relatively long time?",
+    "options": [
+      "Persistence",
+      "Neophobia",
+      "Trophallaxis",
+      "Molting"
+    ],
+    "answer": 0,
+    "explanation": "Persistents Persistent pesticides remain active in the environment for longer periods.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 419
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-286",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A spray tank water sample has pH 8. What is its general classification?",
+    "options": [
+      "Always sterile",
+      "Acidic",
+      "Exactly neutral",
+      "Alkaline or basic"
+    ],
+    "answer": 3,
+    "explanation": "Basic above pH 7 A pH above 7 is basic/alkaline and may affect pesticide stability.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 420
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-287",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is an appropriate pesticide storage arrangement?",
+    "options": [
+      "Open access next to food",
+      "Secure, ventilated storage with suitable temperature control and clear labeling",
+      "Damaged jugs in direct sunlight",
+      "Unmarked containers under a sink"
+    ],
+    "answer": 1,
+    "explanation": "Pesticide storage areas should be secure, well ventilated, properly lit, and protected from temperature extremes.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 421
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-288",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A soil is highly erodible. Why does that matter for pesticide management?",
+    "options": [
+      "Erosion neutralizes every pesticide",
+      "Soil movement changes labels automatically",
+      "Runoff and soil movement can carry residues off target",
+      "Erosion guarantees no runoff"
+    ],
+    "answer": 2,
+    "explanation": "Highly erodible soil is vulnerable to runoff and erosion, increasing contamination risk.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 423
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-289",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "For an urgent suspected pesticide poisoning, where can a person obtain specialized immediate guidance in the United States?",
+    "options": [
+      "Poison Control at 1-800-222-1222, alongside emergency services as needed",
+      "A customer billing line",
+      "A social media poll",
+      "Only the pesticide salesperson"
+    ],
+    "answer": 0,
+    "explanation": "Poison Control at 1-800-222-1222, alongside emergency services as needed. Poison Control should be contacted for pesticide exposure emergencies.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 424
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-290",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why should liquid pesticides generally be stored below dry products?",
+    "options": [
+      "It automatically improves pesticide potency",
+      "Dry products cannot absorb leaks",
+      "A leak is less likely to contaminate dry material stored above",
+      "Liquids are always lighter than dust"
+    ],
+    "answer": 2,
+    "explanation": "Liquids should be stored below dry materials to prevent leakage contamination.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 426
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-291",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What does CAUTION generally communicate as a pesticide signal word?",
+    "options": [
+      "A lower relative acute hazard category than WARNING or DANGER",
+      "That the product is harmless",
+      "That respiratory protection is never needed",
+      "That label directions are optional"
+    ],
+    "answer": 0,
+    "explanation": "The signal word Caution indicates the lower acute toxicity category compared with Warning or Danger.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 427
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-292",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Pesticide splashes into an eye. What is the correct source for the immediate flushing instructions?",
+    "options": [
+      "The customer's appointment card",
+      "The technician's guess",
+      "The product's first-aid label instructions, with medical guidance as indicated",
+      "An unrelated detergent label"
+    ],
+    "answer": 2,
+    "explanation": "First aid statements specify how to respond to eye exposure, including rinsing time and contact lens instructions.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 428
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-293",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Before using a pesticide in a kitchen or food-handling area, what must be confirmed?",
+    "options": [
+      "The label permits the specific site and method, with all food-protection requirements met",
+      "Only the odor matters",
+      "Any pesticide may be used near exposed food",
+      "Food areas are exempt from labels"
+    ],
+    "answer": 0,
+    "explanation": "May be used where food? The label must be checked to determine permitted food/non- food use sites.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 429
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-294",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why is sprayer calibration necessary?",
+    "options": [
+      "To replace label rates",
+      "To know the amount of spray delivered over a measured area or time",
+      "To determine rodent age",
+      "To change pesticide registration"
+    ],
+    "answer": 1,
+    "explanation": "Calibration determines how much product/application solution equipment delivers. Sprayers should be properly calibrated.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 430
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-295",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A mixing example calls for 2 cups. How many fluid ounces is that?",
+    "options": [
+      "4 fluid ounces",
+      "32 fluid ounces",
+      "64 fluid ounces",
+      "16 fluid ounces"
+    ],
+    "answer": 3,
+    "explanation": "One US cup contains 8 fluid ounces, so 2 × 8 = 16 fluid ounces.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 431
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-296",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A measuring container holds 3 pints. How many fluid ounces is that?",
+    "options": [
+      "48 fluid ounces",
+      "64 fluid ounces",
+      "24 fluid ounces",
+      "96 fluid ounces"
+    ],
+    "answer": 0,
+    "explanation": "One US pint contains 16 fluid ounces, so 3 × 16 = 48 fluid ounces.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 432
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-297",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A tank needs three-quarters of a gallon of water. How many fluid ounces is that?",
+    "options": [
+      "32 fluid ounces",
+      "128 fluid ounces",
+      "64 fluid ounces",
+      "96 fluid ounces"
+    ],
+    "answer": 3,
+    "explanation": "One US gallon contains 128 fluid ounces. Three quarters is 0.75 × 128 = 96 fluid ounces.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 433
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-298",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A circular treatment area has a radius of 5 feet. Approximately what is its area using pi as 3.14?",
+    "options": [
+      "31.4 square feet",
+      "25 square feet",
+      "157 square feet",
+      "78.5 square feet"
+    ],
+    "answer": 3,
+    "explanation": "The area of a circle is πr². Using radius 5 feet and π ≈ 3.14 gives 3.14 × 25 = 78.5 square feet.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 434
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-299",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A triangular site is 12 feet wide and 8 feet high. What is its area?",
+    "options": [
+      "20 square feet",
+      "48 square feet",
+      "192 square feet",
+      "96 square feet"
+    ],
+    "answer": 1,
+    "explanation": "Triangle area is one-half base times height. 0.5 × 12 × 8 = 48 square feet.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 435
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-300",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A rectangular treatment area is 15 feet by 12 feet. What is the area?",
+    "options": [
+      "90 square feet",
+      "180 square feet",
+      "360 square feet",
+      "54 square feet"
+    ],
+    "answer": 1,
+    "explanation": "Rectangle area is length times width. 15 × 12 = 180 square feet.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 436
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  }
+]

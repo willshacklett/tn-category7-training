@@ -1,0 +1,902 @@
+[
+  {
+    "id": "C7-201",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A technician's usual procedure conflicts with the pesticide label. Which instruction governs the application?",
+    "options": [
+      "Use whatever controls pests fastest",
+      "Use an old training rate",
+      "Follow the actual product label",
+      "Follow a co-worker's habit"
+    ],
+    "answer": 2,
+    "explanation": "Follow the actual product label. Always read label",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 256
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-202",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A product is registered in a neighboring state but not confirmed for Tennessee. What should the applicator do?",
+    "options": [
+      "Assume all states approve it",
+      "Use it only at night",
+      "Verify Tennessee registration before use",
+      "Rely on the shipping invoice"
+    ],
+    "answer": 2,
+    "explanation": "Applicators must verify pesticide registration status within their own state.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 258
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-203",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A school has occasional ants but no documented infestation. What is the sound initial approach?",
+    "options": [
+      "Inspect, monitor, and address entry and sanitation",
+      "Schedule weekly broadcast sprays",
+      "Ignore monitoring records",
+      "Increase all pesticide concentrations"
+    ],
+    "answer": 0,
+    "explanation": "School IPM emphasizes reduced-risk pest management practices around children and educational facilities.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 261
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-204",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Two insecticides affect different biological targets in an insect. What differs between them?",
+    "options": [
+      "Their modes of action",
+      "The size of their containers",
+      "Their brand colors",
+      "The number of letters in their names"
+    ],
+    "answer": 0,
+    "explanation": "Mode of action (MOA) Mode of action refers to how a pesticide affects the target pest biologically.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 262
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-205",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why does mixing a concentrate often require particular attention to handler protection?",
+    "options": [
+      "Concentrates cannot contact skin",
+      "Water makes every concentrate harmless",
+      "Concentrates can create elevated exposure hazards",
+      "PPE matters only after spraying"
+    ],
+    "answer": 2,
+    "explanation": "Mixing and loading needs greatest level of PPE Mixing and loading concentrated pesticides creates the highest exposure risk for applicators.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 263
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-206",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Who may handle and apply a restricted-use pesticide under applicable certification and supervision rules?",
+    "options": [
+      "Any adult customer",
+      "Only the pesticide retailer",
+      "Properly certified applicators or authorized supervised personnel",
+      "Anyone with a spray bottle"
+    ],
+    "answer": 2,
+    "explanation": "Restricted Use Pesticides (RUPs) may only be applied by certified applicators because of increased risks.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 264
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-207",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "An outdoor spray is drifting toward a neighbor's property. Which equipment adjustment may reduce drift risk where permitted?",
+    "options": [
+      "Always spray in stronger wind",
+      "Use the finest droplets possible",
+      "Select an appropriate larger droplet size",
+      "Increase nozzle height without limit"
+    ],
+    "answer": 2,
+    "explanation": "Larger spray droplets are less likely to drift off-target because they are heavier and fall more quickly.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 266
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-208",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "After routine pesticide work, how should contaminated work clothing be handled?",
+    "options": [
+      "Shake it indoors over food",
+      "Store it in the family laundry basket indefinitely",
+      "Follow label guidance and launder separately from household clothing",
+      "Wash it with infant clothing"
+    ],
+    "answer": 2,
+    "explanation": "Follow label guidance and launder separately from household clothing. Wash pesticide contaminated clothing separate",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 267
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-209",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A garment is heavily saturated with pesticide concentrate. What is the safer general response?",
+    "options": [
+      "Hang it in a bedroom to dry",
+      "Follow label and safety guidance for disposal rather than ordinary home laundering",
+      "Give it to another worker to wear",
+      "Wash it with towels"
+    ],
+    "answer": 1,
+    "explanation": "Clothing heavily contaminated with pesticides may be unsafe to reuse and should be disposed of properly.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 268
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-210",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Two people encounter the same substance but receive different doses. What determines much of the poisoning risk?",
+    "options": [
+      "The product's package color",
+      "The magnitude and route of exposure",
+      "Whether the site is indoors",
+      "The number of words on the label"
+    ],
+    "answer": 1,
+    "explanation": "Toxicity depends on the amount of exposure. The principle is often stated as 'the dose makes the poison.’",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 269
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-211",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A pesticide bears the signal word DANGER. What should a technician infer?",
+    "options": [
+      "A higher acute hazard classification requiring close attention to precautions",
+      "It is always environmentally harmless",
+      "It can be used without PPE",
+      "It has no first-aid directions"
+    ],
+    "answer": 0,
+    "explanation": "The signal word 'Danger' indicates highly toxic pesticide products capable of causing severe injury or death at low exposure levels.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 270
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-212",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "When does an economic threshold call for a management decision?",
+    "options": [
+      "Whenever a calendar reminder occurs",
+      "Only after a crop is destroyed",
+      "Before projected pest damage reaches unacceptable economic injury",
+      "Only after every insect is gone"
+    ],
+    "answer": 2,
+    "explanation": "Economic threshold is the pest population level at which action should be taken to prevent unacceptable economic damage.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 271
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-213",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A product label permits use in exterior perimeter areas only. May it be applied to an interior classroom?",
+    "options": [
+      "Yes, if less product is used",
+      "Yes, whenever rain is expected",
+      "Yes, if a customer asks",
+      "No, that site is not listed as permitted"
+    ],
+    "answer": 3,
+    "explanation": "Site must Pesticides may only be used on sites be on the specifically listed on the product label label.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 274
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-214",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is the primary significance of a pesticide label signal word?",
+    "options": [
+      "It conveys relative acute toxicity or hazard",
+      "It guarantees long-term safety",
+      "It replaces the directions for use",
+      "It specifies the target insect's life span"
+    ],
+    "answer": 0,
+    "explanation": "Signal word indicates relative acute toxicity Signal words reflect the relative acute toxicity of pesticide products to humans and animals.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 278
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-215",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A worker assumes CAUTION means no possibility of chronic health concerns. What's wrong with that inference?",
+    "options": [
+      "Signal words mainly communicate acute hazards, not every long-term risk",
+      "Only odor determines chronic toxicity",
+      "CAUTION means no precautions",
+      "Chronic effects are the same as package size"
+    ],
+    "answer": 0,
+    "explanation": "Not chronic toxicity Signal words reflect short-term (acute) toxicity rather than long-term chronic effects.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 279
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-216",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What does an LD50 measurement represent?",
+    "options": [
+      "The dose lethal to 50 percent of a test population under specified conditions",
+      "The concentration used on 50 buildings",
+      "An expiration date of 50 days",
+      "The time for 50 insects to hatch"
+    ],
+    "answer": 0,
+    "explanation": "LD50 represents the dose required to kill 50 population percent of a test population under controlled conditions. killed",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 280
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-217",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which formulation component provides the intended biological pest-control effect?",
+    "options": [
+      "Active ingredient",
+      "Container cap",
+      "Retail barcode",
+      "Batch shipping label"
+    ],
+    "answer": 0,
+    "explanation": "Active ingredient has activity against target pest The active ingredient is the chemical component responsible for controlling the target pest.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 282
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-218",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why are strategically placed pest baits useful in IPM?",
+    "options": [
+      "They replace all inspections",
+      "They work even when inaccessible to target pests",
+      "They are legally exempt from labeling",
+      "They target feeding behavior and can reduce broad exposure in suitable situations"
+    ],
+    "answer": 3,
+    "explanation": "Bait formulations are commonly used in IPM because they reduce non-target exposure and low impact focus treatment on pests.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 285
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-219",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A pesticide container breaks during unloading. Which three actions summarize basic spill response?",
+    "options": [
+      "Close, calculate, and ignore",
+      "Control, contain, and clean up safely",
+      "Call, conceal, and continue",
+      "Collect, consume, and carry"
+    ],
+    "answer": 1,
+    "explanation": "Note the 3 C’s when a spill happens Control, Contain, and Clean Up",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 290
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-220",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A large pesticide release threatens people and drains. What is the appropriate first priority?",
+    "options": [
+      "Leave the spill unreported",
+      "Protect people and contact appropriate emergency responders",
+      "Continue servicing nearby accounts",
+      "Wash everything into the street"
+    ],
+    "answer": 1,
+    "explanation": "Call 911 – in the event of a major spill Hazardous Material Clean-up",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 291
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-221",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "An oil-based formulation disperses in water as small droplets. What type of mixture is formed?",
+    "options": [
+      "Dry granule",
+      "Pure solution of salt",
+      "Emulsion",
+      "Water-soluble packet"
+    ],
+    "answer": 2,
+    "explanation": "Oil-based formulation suspended in water — emulsion An emulsion occurs when oil-based pesticide formulations are dispersed in water.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 292
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-222",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A fill hose is submerged inside a spray tank while adding water. What prevents back-siphon contamination?",
+    "options": [
+      "Leave the hose in the mixture",
+      "Use a smaller pesticide label",
+      "Maintain a suitable air gap or approved backflow protection",
+      "Increase tank pressure"
+    ],
+    "answer": 2,
+    "explanation": "An air gap between the water source and spray tank prevents pesticide contamination of water supplies.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 295
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-223",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What does REI mean on pesticide labeling?",
+    "options": [
+      "Registered Exposure Ingredient",
+      "Routine Equipment Inspection",
+      "Residual Emulsion Index",
+      "Restricted-Entry Interval"
+    ],
+    "answer": 3,
+    "explanation": "REI stands for Restricted-Entry Interval, the required waiting period before entering a treated area without PPE.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 296
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-224",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which characteristic best describes a wettable powder after mixing with water?",
+    "options": [
+      "It always dissolves molecularly",
+      "Solid particles remain suspended and may need agitation",
+      "It turns into a ready-to-use aerosol",
+      "It becomes a pressurized gas"
+    ],
+    "answer": 1,
+    "explanation": "Water Soluable WP stands for Wettable Powder, a dry formulation mixed with water before application.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 298
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-225",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "After treating a residence, how should the technician determine when occupants may reenter?",
+    "options": [
+      "Follow the specific label's reentry instructions, such as drying where stated",
+      "Use the temperature alone",
+      "Assume all products have a 24-hour rule",
+      "Let occupants decide before reading the label"
+    ],
+    "answer": 0,
+    "explanation": "Many residential pesticide labels permit reentry once treated surfaces are dry and airborne dusts have settled.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 303
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-226",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Pollinators are foraging on blooming plants next to a proposed treatment. What is the sound action?",
+    "options": [
+      "Spray directly onto visiting bees",
+      "Ignore bloom conditions",
+      "Use wind to carry spray onto blossoms",
+      "Follow bee-related label restrictions and avoid exposing foraging pollinators"
+    ],
+    "answer": 3,
+    "explanation": "Applications near bees should be made when bees are less active, such as early morning or evening, and should avoid blooming plants.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 304
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-227",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which example is biological pest management?",
+    "options": [
+      "Leaving food waste outdoors",
+      "Increasing spray volume every month",
+      "Using only brighter exterior lights",
+      "Using natural enemies or pathogens to suppress a pest"
+    ],
+    "answer": 3,
+    "explanation": "Biological control uses living organisms, natural organism enemies, pathogens, or naturally derived toxins to suppress pest populations. or toxin",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 305
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-228",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A manager schedules routine spraying regardless of pest findings. Why is that inconsistent with IPM?",
+    "options": [
+      "IPM prohibits keeping records",
+      "IPM ignores pest thresholds",
+      "IPM uses inspection, monitoring, and justified management decisions",
+      "IPM requires pesticides on every visit"
+    ],
+    "answer": 2,
+    "explanation": "IPM does not include spraying on schedule IPM relies on monitoring and thresholds rather than routine calendar-based pesticide applications.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 307
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-229",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Does an IPM program categorically prohibit pesticides?",
+    "options": [
+      "No, targeted label-compliant pesticide use can be appropriate when justified",
+      "Yes, but only for insects",
+      "Yes, even when required for health protection",
+      "No, it requires blanket treatment every day"
+    ],
+    "answer": 0,
+    "explanation": "IPM allows pesticide use when necessary but pesticide emphasizes least-risk, targeted, and threshold- based applications. — False",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 308
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-230",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why is early pest detection valuable?",
+    "options": [
+      "It allows correction before populations and damage grow",
+      "It makes accurate identification unnecessary",
+      "It always eliminates need for inspections",
+      "It guarantees zero pests forever"
+    ],
+    "answer": 0,
+    "explanation": "Early detection allows intervention before pest slowing populations become severe, reducing damage and pesticide reliance. pest population",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 310
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-231",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which relationship best describes federal and state pesticide requirements?",
+    "options": [
+      "State requirements matter only to retailers",
+      "Federal law cancels every state rule",
+      "Applicators must comply with both, including any applicable stricter state rules",
+      "Only county rules apply"
+    ],
+    "answer": 2,
+    "explanation": "Pesticide use in the United States is governed by Federal and both federal laws and state laws. States may enforce stricter regulations than federal law. State Laws",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 311
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-232",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What does FIFRA stand for?",
+    "options": [
+      "Federal Insecticide, Fungicide, and Rodenticide Act",
+      "Food Ingredient and Fertilizer Registration Authority",
+      "Federal Inspection for Farm Risk Assessments",
+      "Federal Indoor Fumigation Reporting Agency"
+    ],
+    "answer": 0,
+    "explanation": "FIFRA stands for the Federal Insecticide, Fungicide, and Rodenticide Act, originally passed in 1947.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 312
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-233",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which federal agency regulates pesticide registration under FIFRA?",
+    "options": [
+      "Environmental Protection Agency",
+      "National Park Service exclusively",
+      "U.S. Postal Service",
+      "Internal Revenue Service"
+    ],
+    "answer": 0,
+    "explanation": "The Environmental Protection Agency (EPA) became the primary federal regulatory agency overseeing pesticides in 1970.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 314
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-234",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What did major FIFRA amendments in 1972 strengthen?",
+    "options": [
+      "A ban on all structural pest work",
+      "Only termite colony biology",
+      "The size of spray tanks",
+      "Federal oversight of pesticide registration, distribution, and use"
+    ],
+    "answer": 3,
+    "explanation": "The 1972 amendments strengthened FIFRA by regulating pesticide distribution, sale, and use, distribution including certification requirements.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 315
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-235",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "An uncertified employee wants to apply an RUP alone. What must the company verify?",
+    "options": [
+      "That no customer is watching",
+      "The applicable certification or authorized-supervision requirements are met",
+      "That the product is discounted",
+      "That the employee owns gloves"
+    ],
+    "answer": 1,
+    "explanation": "Restricted-use pesticides may only be applied by certified applicators or individuals under their restricted supervision. pesticides",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 319
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-236",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Where should an applicator look to determine if a product is restricted-use?",
+    "options": [
+      "Only its cap color",
+      "Only its shelf position",
+      "The product's labeling, including any restricted-use statement",
+      "Only an online review"
+    ],
+    "answer": 2,
+    "explanation": "Restricted-use pesticides are labeled prominently restricted and general use with Restricted Use language, while general-use products do not contain this statement.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 320
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-237",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "A label's first-aid statement provides instructions for what?",
+    "options": [
+      "Responding to specified exposure routes and symptoms",
+      "Identifying a termite species",
+      "Selecting a customer's billing cycle",
+      "Increasing service charges"
+    ],
+    "answer": 0,
+    "explanation": "Licensed or certified applicators may supervise non-certified individuals performing pesticide applications.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 321
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-238",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which part of a pesticide label specifies permissible sites and application procedures?",
+    "options": [
+      "Trademark symbol",
+      "Manufacturing logo alone",
+      "Retail price sticker",
+      "Directions for Use"
+    ],
+    "answer": 3,
+    "explanation": "Visual supervision means the certified applicator is physically present and able to observe the application process.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 322
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-239",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Where should a technician check required gloves, clothing, and respiratory equipment?",
+    "options": [
+      "Precautionary statements and other applicable label sections",
+      "Only the product barcode",
+      "A competitor's service ticket",
+      "The customer's calendar"
+    ],
+    "answer": 0,
+    "explanation": "Private applicators apply pesticides on land they own or control for agricultural production purposes.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 323
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-240",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What should happen before mixing two pesticides in one tank?",
+    "options": [
+      "Mix first and read later",
+      "Confirm both labels permit the mixture and check compatibility",
+      "Use the stronger signal word alone",
+      "Assume every mixture is legal"
+    ],
+    "answer": 1,
+    "explanation": "Commercial applicators perform pesticide applications for hire or fee outside private agricultural production.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 324
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-241",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "How should applicators handle a product whose label instructions differ from an old training example?",
+    "options": [
+      "Always use the older example",
+      "Use the product's current applicable labeling",
+      "Ignore the use-site restrictions",
+      "Average the two rates"
+    ],
+    "answer": 1,
+    "explanation": "Charging a fee for pesticide applications generally places an applicator under commercial licensing requirements. This requires a Charter.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 325
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-242",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is a pesticide registration number used for?",
+    "options": [
+      "Identifying a registered pesticide product",
+      "Identifying a customer account",
+      "Measuring nozzle pressure",
+      "Calculating insect age"
+    ],
+    "answer": 0,
+    "explanation": "A licensed pest control operator is responsible for supervising structural Operator pest control operations under Tennessee regulations.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 326
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-243",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Which is an example of an exposure route for pesticides?",
+    "options": [
+      "Pest egg production",
+      "Dermal absorption",
+      "Customer dissatisfaction",
+      "Product registration renewal"
+    ],
+    "answer": 1,
+    "explanation": "Structural pest control firms operating in $400 every 2 Tennessee must maintain a valid charter and renew according to state requirements. years",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 327
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-244",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is the best response when a splash reaches an applicator's eyes?",
+    "options": [
+      "Finish the route first",
+      "Neutralize with household bleach",
+      "Follow label first aid promptly, including flushing as directed, and obtain medical help as indicated",
+      "Rub the eyes with gloves"
+    ],
+    "answer": 2,
+    "explanation": "Employees such as technicians and solicitors may need to be listed or associated with the business charter.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 328
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-245",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why should pesticide products remain in properly labeled containers?",
+    "options": [
+      "To conceal product names",
+      "To preserve identification, hazard, and handling directions",
+      "So they can be mistaken for beverages",
+      "Because transfer always increases shelf life"
+    ],
+    "answer": 1,
+    "explanation": "Certified technicians are required to renew certifications periodically and may have associated fees.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 329
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-246",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is the safest general practice for pesticide transport?",
+    "options": [
+      "Secure containers against spills and keep them separated from food and passengers as required",
+      "Place open containers on car seats",
+      "Store damaged containers beside children",
+      "Carry concentrates in drink bottles"
+    ],
+    "answer": 0,
+    "explanation": "Facilities such as food establishments, require lodging, educational buildings, religious licensed institutions, and food-processing facilities often require licensed structural pest pest control control services. operator",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 330
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-247",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "Why must a structural applicator read the full label rather than only the brand name?",
+    "options": [
+      "All brands have identical sites",
+      "The label establishes legally applicable use directions and restrictions",
+      "The brand gives every mixing rate",
+      "The container color overrides directions"
+    ],
+    "answer": 1,
+    "explanation": "FIFRA gives legal force to pesticide labels; the applicator must follow label is law directions and state law requirements.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 352
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-248",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "If a state imposes a stricter pesticide requirement than a federal baseline, what should an applicator do?",
+    "options": [
+      "Use only verbal instructions",
+      "Ignore the state provision",
+      "Apply at double the rate",
+      "Follow the applicable stricter requirement"
+    ],
+    "answer": 3,
+    "explanation": "States implement their own pesticide laws and may add restrictions that are equal to or stricter than FIFRA.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 358
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-249",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What did the Food Quality Protection Act particularly strengthen?",
+    "options": [
+      "Consideration of pesticide dietary risks, including protections for children",
+      "A ban on all nonchemical IPM",
+      "Sprayer nozzle manufacturing",
+      "The right to ignore residues"
+    ],
+    "answer": 0,
+    "explanation": "FQPA updated pesticide residue standards and added special protections, especially around food and sensitive populations.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 361
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  },
+  {
+    "id": "C7-250",
+    "topic": "Regulations, labels, safety, formulations and calculations",
+    "question": "What is a pesticide residue tolerance?",
+    "options": [
+      "A legally established maximum residue level on or in specified food",
+      "An insect's preferred temperature",
+      "A technician's tolerance for mosquitoes",
+      "The number of hours in a work shift"
+    ],
+    "answer": 0,
+    "explanation": "Tolerance is the legal amount of pesticide residue allowed on or in food; the risk cup analogy describes total allowable exposure every day for 70 years without additional health risks.",
+    "source": {
+      "document": "TN C7 Powerpoint Presenation.pdf",
+      "slide": 362
+    },
+    "review_status": "source-mapped; independent expert verification pending"
+  }
+]
