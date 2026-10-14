@@ -46,7 +46,7 @@
       "It overrides every pesticide label"
     ],
     "answer": 1,
-    "explanation": "Endangered Species Act (ESA): Prohibits actions that could harm, kill, or degrade the habitat of federally threatened or endangered species. Under Section 7 of the ESA, the EPA must ensure that any pesticide it registers does not jeopardize these listed species, often leading to geographically specific use limitations.",
+    "explanation": "Some pesticide uses have Endangered Species Act-related restrictions to protect listed species or their designated critical habitat. EPA may establish geographically specific restrictions through product labeling and pesticide bulletins. When the label directs an EPA Bulletins Live! Two check, consult the current bulletin for the application location and month and follow any applicable restrictions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 368
@@ -64,7 +64,7 @@
       "Rely on an unverified universal period"
     ],
     "answer": 1,
-    "explanation": "Applicators must retain required pesticide records for the required retention period; notes identify 2 years.",
+    "explanation": "Tennessee Rule 0080-09-04-.06 requires commercial applicators to keep records for each custom pesticide application and each restricted-use pesticide application they make or authorize by direct supervision; private applicators must keep records for restricted-use pesticide applications they make or authorize by direct supervision. Records required by this rule must be retained for two years from the application date. Other records or uses may have different requirements.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 369
@@ -622,7 +622,7 @@
       "Molting"
     ],
     "answer": 0,
-    "explanation": "Persistents Persistent pesticides remain active in the environment for longer periods.",
+    "explanation": "Persistence describes how long a pesticide or its residues remain in the environment before breaking down or being removed. Persistence alone does not establish whether a pesticide remains biologically active or how harmful it is; those depend on the product and environmental conditions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 419

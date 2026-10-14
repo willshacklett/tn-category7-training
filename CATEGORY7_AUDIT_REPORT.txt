@@ -1,0 +1,54 @@
+Tennessee Category 7 — Structural and Editorial Audit
+
+Question records: 300
+Unique IDs: 300
+Unique normalized question stems: 300
+Review flags (not necessarily errors): 45
+
+This report does not independently verify pesticide label directions, state laws, or scientific accuracy.
+
+- C7-032: possible regulatory claim; check current authorities
+- C7-103: possible regulatory claim; check current authorities
+- C7-111: numeric rule/rate may need source-specific verification
+- C7-111: possible regulatory claim; check current authorities
+- C7-112: possible regulatory claim; check current authorities
+- C7-115: possible regulatory claim; check current authorities
+- C7-128: possible regulatory claim; check current authorities
+- C7-131: possible regulatory claim; check current authorities
+- C7-138: possible regulatory claim; check current authorities
+- C7-141: possible regulatory claim; check current authorities
+- C7-142: possible regulatory claim; check current authorities
+- C7-143: numeric rule/rate may need source-specific verification
+- C7-144: numeric rule/rate may need source-specific verification
+- C7-144: possible regulatory claim; check current authorities
+- C7-146: numeric rule/rate may need source-specific verification
+- C7-146: possible regulatory claim; check current authorities
+- C7-156: possible regulatory claim; check current authorities
+- C7-174: possible regulatory claim; check current authorities
+- C7-175: possible regulatory claim; check current authorities
+- C7-201: possible regulatory claim; check current authorities
+- C7-202: short explanation; review for educational clarity
+- C7-202: possible regulatory claim; check current authorities
+- C7-206: possible regulatory claim; check current authorities
+- C7-213: possible regulatory claim; check current authorities
+- C7-223: possible regulatory claim; check current authorities
+- C7-231: possible regulatory claim; check current authorities
+- C7-233: possible regulatory claim; check current authorities
+- C7-235: possible regulatory claim; check current authorities
+- C7-236: possible regulatory claim; check current authorities
+- C7-242: possible regulatory claim; check current authorities
+- C7-247: possible regulatory claim; check current authorities
+- C7-254: possible regulatory claim; check current authorities
+- C7-255: numeric rule/rate may need source-specific verification
+- C7-255: possible regulatory claim; check current authorities
+- C7-257: short explanation; review for educational clarity
+- C7-262: short explanation; review for educational clarity
+- C7-263: short explanation; review for educational clarity
+- C7-269: short explanation; review for educational clarity
+- C7-277: short explanation; review for educational clarity
+- C7-284: short explanation; review for educational clarity
+- C7-290: short explanation; review for educational clarity
+- C7-293: possible regulatory claim; check current authorities
+- C7-298: numeric rule/rate may need source-specific verification
+- C7-299: numeric rule/rate may need source-specific verification
+- C7-300: numeric rule/rate may need source-specific verification

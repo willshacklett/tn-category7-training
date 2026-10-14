@@ -10,7 +10,7 @@
       "Follow a co-worker's habit"
     ],
     "answer": 2,
-    "explanation": "Follow the actual product label. Always read label",
+    "explanation": "The product's labeling gives its authorized sites, directions, and restrictions. FIFRA generally prohibits using a registered pesticide inconsistently with its labeling; read the full label and check applicable federal and Tennessee requirements before applying it.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 256
@@ -100,7 +100,7 @@
       "Anyone with a spray bottle"
     ],
     "answer": 2,
-    "explanation": "Restricted Use Pesticides (RUPs) may only be applied by certified applicators because of increased risks.",
+    "explanation": "Restricted-use pesticides are not for general use. A certified applicator may apply one, or may authorize a noncertified applicator only when federal and Tennessee rules permit and the required direct-supervision conditions are met. Verify the exact requirements and product label before use.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 264
@@ -226,7 +226,7 @@
       "No, that site is not listed as permitted"
     ],
     "answer": 3,
-    "explanation": "Site must Pesticides may only be used on sites be on the specifically listed on the product label label.",
+    "explanation": "Use a pesticide only at sites and by methods allowed by its labeling and applicable law. If a label permits exterior perimeter use only, an interior classroom is not an authorized site for that product.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 274
@@ -406,7 +406,7 @@
       "Restricted-Entry Interval"
     ],
     "answer": 3,
-    "explanation": "REI stands for Restricted-Entry Interval, the required waiting period before entering a treated area without PPE.",
+    "explanation": "For covered agricultural pesticide uses under the Worker Protection Standard, the REI is the label-specified restricted-entry interval. Workers generally must stay out of the treated area during that interval; limited early-entry exceptions have specific conditions and PPE requirements. The interval varies by product and use and is not a general reentry rule for every pesticide application.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 296
@@ -550,7 +550,7 @@
       "Only county rules apply"
     ],
     "answer": 2,
-    "explanation": "Pesticide use in the United States is governed by Federal and both federal laws and state laws. States may enforce stricter regulations than federal law. State Laws",
+    "explanation": "Applicators must follow applicable federal and Tennessee pesticide requirements. FIFRA permits states to regulate pesticide sale or use, but bars state requirements for labeling or packaging that are additional to or different from federal requirements. Check which requirements apply to the specific activity.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 311
@@ -622,7 +622,7 @@
       "That the employee owns gloves"
     ],
     "answer": 1,
-    "explanation": "Restricted-use pesticides may only be applied by certified applicators or individuals under their restricted supervision. pesticides",
+    "explanation": "Before an uncertified employee applies a restricted-use pesticide, verify that federal and Tennessee rules allow that person to do so, that required qualifications and training are met, and that the certified applicator fulfills the applicable direct-supervision responsibilities for the specific use.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 319
@@ -658,7 +658,7 @@
       "Increasing service charges"
     ],
     "answer": 0,
-    "explanation": "Licensed or certified applicators may supervise non-certified individuals performing pesticide applications.",
+    "explanation": "The product's first-aid statement tells you what to do for the exposure routes listed on that label. Read and follow the exact product label promptly, and contact a poison control center or medical professional as directed by the label.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 321
@@ -748,7 +748,7 @@
       "Calculating insect age"
     ],
     "answer": 0,
-    "explanation": "A licensed pest control operator is responsible for supervising structural Operator pest control operations under Tennessee regulations.",
+    "explanation": "The EPA Registration Number identifies the pesticide product registration. Check the number together with the product name on the container label to distinguish the registered product; it does not identify a customer account, measure nozzle pressure, or calculate insect age.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 326
@@ -766,7 +766,7 @@
       "Product registration renewal"
     ],
     "answer": 1,
-    "explanation": "Structural pest control firms operating in $400 every 2 Tennessee must maintain a valid charter and renew according to state requirements. years",
+    "explanation": "Dermal exposure occurs when a pesticide contacts the skin and may be absorbed through it. Skin contact is one route by which a pesticide can enter the body.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 327
@@ -820,7 +820,7 @@
       "Carry concentrates in drink bottles"
     ],
     "answer": 0,
-    "explanation": "Facilities such as food establishments, require lodging, educational buildings, religious licensed institutions, and food-processing facilities often require licensed structural pest pest control control services. operator",
+    "explanation": "During transport, keep pesticide containers closed, upright, and secured to prevent spills, and separate them from food and passengers. Keep pesticides in their original labeled containers and follow the product label and applicable transport requirements; never transfer pesticide into a food or drink container.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 330
@@ -838,7 +838,7 @@
       "The container color overrides directions"
     ],
     "answer": 1,
-    "explanation": "FIFRA gives legal force to pesticide labels; the applicator must follow label is law directions and state law requirements.",
+    "explanation": "The product label provides the legally applicable directions and restrictions for that pesticide. Read the full label to check authorized sites, rates, application methods, and safety precautions before use; a brand name alone does not provide those directions.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 352
@@ -892,7 +892,7 @@
       "The number of hours in a work shift"
     ],
     "answer": 0,
-    "explanation": "Tolerance is the legal amount of pesticide residue allowed on or in food; the risk cup analogy describes total allowable exposure every day for 70 years without additional health risks.",
+    "explanation": "A tolerance is the legal maximum pesticide residue permitted on or in a specified food. EPA sets a tolerance only after finding a reasonable certainty of no harm from aggregate exposure, including dietary and other relevant exposure. This is not a fixed daily lifetime dose or a guarantee of zero risk.",
     "source": {
       "document": "TN C7 Powerpoint Presenation.pdf",
       "slide": 362
